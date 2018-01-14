@@ -11,12 +11,12 @@ MonoBehaviour:
   m_Script: {fileID: 1109517887, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-14T14:59:26.2916990+09:00
-  lastVerifiedAtString: 2018-01-14T14:59:26.2916990+09:00
+  lastUpdatedAtString: 2018-01-14T15:02:23.4795240+09:00
+  lastVerifiedAtString: 2018-01-14T15:02:23.4795240+09:00
   firstInitializedAtString: 2018-01-14T14:59:26.2843010+09:00
   gitRemote:
     name: origin
-    url: git@github.com:billboard-hack/app.git
+    url: https://github.com/billboard-hack/app.git
     login: 
     user: 
     host: 

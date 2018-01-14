@@ -11,8 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-14T14:59:26.2896670+09:00
-  lastVerifiedAtString: 2018-01-14T14:59:26.2896670+09:00
+  lastUpdatedAtString: 2018-01-14T15:02:23.4778480+09:00
+  lastVerifiedAtString: 2018-01-14T15:02:23.4778480+09:00
   initializedAtString: 2018-01-14T14:59:26.2441940+09:00
   gitConfigBranch:
     name: master
@@ -21,20 +21,28 @@ MonoBehaviour:
       url: 
   gitConfigRemote:
     name: origin
-    url: git@github.com:billboard-hack/app.git
-  localBranches: []
+    url: https://github.com/billboard-hack/app.git
+  localBranches:
+  - name: master
+    tracking: '[None]'
+    isActive: 1
   remoteBranches: []
   remotes:
   - name: origin
-    url: git@github.com:billboard-hack/app.git
+    url: https://github.com/billboard-hack/app.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: 
+        url: 
   remoteConfigBranches:
     keys: []
     subKeys: []
@@ -44,4 +52,4 @@ MonoBehaviour:
     - origin
     values:
     - name: origin
-      url: git@github.com:billboard-hack/app.git
+      url: https://github.com/billboard-hack/app.git
