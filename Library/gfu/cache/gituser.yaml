@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1697640569, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastUpdatedAtString: 2018-01-14T13:34:43.6375900+09:00
+  lastVerifiedAtString: 2018-01-14T15:00:35.7348000+09:00
+  initializedAtString: 2018-01-14T14:59:27.1486780+09:00
+  gitName: y0k0ta19
+  gitEmail: motoyk@gmail.com
