@@ -11,8 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-21T02:31:29.0688180+09:00
-  lastVerifiedAtString: 2018-01-21T02:31:29.0754730+09:00
+  lastUpdatedAtString: 2018-01-21T03:36:05.5946480+09:00
+  lastVerifiedAtString: 2018-01-21T03:36:05.6023230+09:00
   initializedAtString: 2018-01-21T02:31:29.0354260+09:00
   gitConfigBranch:
     name: CreatingAStage
