@@ -11,11 +11,11 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-20T23:22:34.0633190+09:00
-  lastVerifiedAtString: 2018-01-20T23:22:34.0650910+09:00
-  initializedAtString: 2018-01-20T23:15:17.4415570+09:00
+  lastUpdatedAtString: 2018-01-21T02:31:29.0688180+09:00
+  lastVerifiedAtString: 2018-01-21T02:31:29.0754730+09:00
+  initializedAtString: 2018-01-21T02:31:29.0354260+09:00
   gitConfigBranch:
-    name: master
+    name: CreatingAStage
     remote:
       name: origin
       url: https://github.com/billboard-hack/app.git
@@ -23,11 +23,20 @@ MonoBehaviour:
     name: origin
     url: https://github.com/billboard-hack/app.git
   localBranches:
+  - name: CreatingAStage
+    tracking: origin/CreatingAStage
+    isActive: 1
   - name: master
     tracking: origin/master
-    isActive: 1
+    isActive: 0
   remoteBranches:
+  - name: origin/CreatingAStage
+    tracking: '[None]'
+    isActive: 0
   - name: origin/HEAD
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/change-animator
     tracking: '[None]'
     isActive: 0
   remotes:
@@ -40,8 +49,13 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - CreatingAStage
     - master
     values:
+    - name: CreatingAStage
+      remote:
+        name: origin
+        url: https://github.com/billboard-hack/app.git
     - name: master
       remote:
         name: origin
@@ -51,10 +65,20 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+      - CreatingAStage
       - HEAD
+      - change-animator
     subKeyValues:
     - Values:
+      - name: CreatingAStage
+        remote:
+          name: origin
+          url: https://github.com/billboard-hack/app.git
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/billboard-hack/app.git
+      - name: change-animator
         remote:
           name: origin
           url: https://github.com/billboard-hack/app.git

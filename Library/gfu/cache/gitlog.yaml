@@ -11,10 +11,58 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-20T23:22:34.2338800+09:00
-  lastVerifiedAtString: 2018-01-20T23:22:34.2338800+09:00
-  initializedAtString: 2018-01-20T23:15:17.6075060+09:00
+  lastUpdatedAtString: 2018-01-21T02:31:29.1217270+09:00
+  lastVerifiedAtString: 2018-01-21T02:31:29.1217270+09:00
+  initializedAtString: 2018-01-21T02:31:29.1217270+09:00
   log:
+  - commitID: e82a6bee50b8fabce95253df35617c7b047ffe70
+    mergeA: 
+    mergeB: 
+    authorName: Tomoaki-Tsuchiya
+    authorEmail: tomt0m.25.g00cl@gmail.com
+    commitEmail: tomt0m.25.g00cl@gmail.com
+    commitName: Tomoaki-Tsuchiya
+    summary: Trial Commit by Tsuchi
+    description: Trial Commit by Tsuchi
+    timeString: 2018-01-20T23:28:31.0000000+09:00
+    commitTimeString: 2018-01-20T23:28:31.0000000+09:00
+    changes:
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gituser.yaml
+      fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/gituser.yaml
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 31ca2bdb7a25a38bdc02280787624009ad83b7fe
     mergeA: 
     mergeB: 
