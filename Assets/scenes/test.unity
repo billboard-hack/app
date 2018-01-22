@@ -109,8 +109,6 @@ NavMeshSettings:
     manualTileSize: 0
     tileSize: 256
     accuratePlacement: 0
-    debug:
-      m_Flags: 0
   m_NavMeshData: {fileID: 0}
 --- !u!1 &619180609
 GameObject:
@@ -179,6 +177,7 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
+  m_StereoMirrorMode: 0
 --- !u!4 &619180613
 Transform:
   m_ObjectHideFlags: 0
@@ -274,7 +273,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400094, guid: 29df6f40c5ef94ec3873ed0d9cd09a50, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 400094, guid: 29df6f40c5ef94ec3873ed0d9cd09a50, type: 3}
       propertyPath: m_LocalRotation.x

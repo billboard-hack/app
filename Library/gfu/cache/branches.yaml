@@ -11,25 +11,40 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-14T15:02:23.4778480+09:00
-  lastVerifiedAtString: 2018-01-14T15:02:23.4778480+09:00
-  initializedAtString: 2018-01-14T14:59:26.2441940+09:00
+  lastUpdatedAtString: 2018-01-22T23:46:46.4423524+09:00
+  lastVerifiedAtString: 2018-01-22T23:46:46.4503738+09:00
+  initializedAtString: 2018-01-22T23:46:46.4122720+09:00
   gitConfigBranch:
-    name: master
+    name: change-animator
     remote:
-      name: 
-      url: 
+      name: origin
+      url: https://github.com/billboard-hack/app
   gitConfigRemote:
     name: origin
-    url: https://github.com/billboard-hack/app.git
+    url: https://github.com/billboard-hack/app
   localBranches:
+  - name: change-animator
+    tracking: origin/change-animator
+    isActive: 1
+  - name: CreatingAStage
+    tracking: origin/CreatingAStage
+    isActive: 0
   - name: master
     tracking: '[None]'
-    isActive: 1
-  remoteBranches: []
+    isActive: 0
+  remoteBranches:
+  - name: origin/change-animator
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/CreatingAStage
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/master
+    tracking: '[None]'
+    isActive: 0
   remotes:
   - name: origin
-    url: https://github.com/billboard-hack/app.git
+    url: https://github.com/billboard-hack/app
     login: 
     user: 
     host: 
@@ -37,19 +52,47 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - change-animator
+    - CreatingAStage
     - master
     values:
+    - name: change-animator
+      remote:
+        name: origin
+        url: https://github.com/billboard-hack/app
+    - name: CreatingAStage
+      remote:
+        name: origin
+        url: https://github.com/billboard-hack/app
     - name: master
       remote:
         name: 
         url: 
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - change-animator
+      - CreatingAStage
+      - master
+    subKeyValues:
+    - Values:
+      - name: change-animator
+        remote:
+          name: origin
+          url: https://github.com/billboard-hack/app
+      - name: CreatingAStage
+        remote:
+          name: origin
+          url: https://github.com/billboard-hack/app
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/billboard-hack/app
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/billboard-hack/app.git
+      url: https://github.com/billboard-hack/app
