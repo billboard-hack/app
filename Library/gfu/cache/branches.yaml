@@ -11,11 +11,11 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-21T03:36:05.5946480+09:00
-  lastVerifiedAtString: 2018-01-21T03:36:05.6023230+09:00
-  initializedAtString: 2018-01-21T02:31:29.0354260+09:00
+  lastUpdatedAtString: 2018-01-27T03:10:06.5635470+09:00
+  lastVerifiedAtString: 2018-01-27T03:10:06.5685370+09:00
+  initializedAtString: 2018-01-27T01:34:23.9553600+09:00
   gitConfigBranch:
-    name: CreatingAStage
+    name: LoginButtons
     remote:
       name: origin
       url: https://github.com/billboard-hack/app.git
@@ -25,6 +25,9 @@ MonoBehaviour:
   localBranches:
   - name: CreatingAStage
     tracking: origin/CreatingAStage
+    isActive: 0
+  - name: LoginButtons
+    tracking: origin/LoginButtons
     isActive: 1
   - name: master
     tracking: origin/master
@@ -36,7 +39,13 @@ MonoBehaviour:
   - name: origin/HEAD
     tracking: '[None]'
     isActive: 0
+  - name: origin/LoginButtons
+    tracking: '[None]'
+    isActive: 0
   - name: origin/change-animator
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/dev
     tracking: '[None]'
     isActive: 0
   remotes:
@@ -50,9 +59,14 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - CreatingAStage
+    - LoginButtons
     - master
     values:
     - name: CreatingAStage
+      remote:
+        name: origin
+        url: https://github.com/billboard-hack/app.git
+    - name: LoginButtons
       remote:
         name: origin
         url: https://github.com/billboard-hack/app.git
@@ -67,7 +81,9 @@ MonoBehaviour:
     - Values:
       - CreatingAStage
       - HEAD
+      - LoginButtons
       - change-animator
+      - dev
     subKeyValues:
     - Values:
       - name: CreatingAStage
@@ -78,7 +94,15 @@ MonoBehaviour:
         remote:
           name: origin
           url: https://github.com/billboard-hack/app.git
+      - name: LoginButtons
+        remote:
+          name: origin
+          url: https://github.com/billboard-hack/app.git
       - name: change-animator
+        remote:
+          name: origin
+          url: https://github.com/billboard-hack/app.git
+      - name: dev
         remote:
           name: origin
           url: https://github.com/billboard-hack/app.git

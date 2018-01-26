@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\AddCharacterButton.cs" />
+     <Compile Include="Assets\Scripts\LoginManager.cs" />
      <None Include="Assets\Plugins\GitHub\Editor\CREDITS.txt" />
      <None Include="Assets\Plugins\GitHub\Editor\EULA.txt" />
  <Reference Include="UnityEngine.UIAutomation">
