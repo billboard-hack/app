@@ -11,10 +11,202 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-27T19:00:30.4953052+09:00
-  lastVerifiedAtString: 2018-01-27T19:00:30.4953052+09:00
-  initializedAtString: 2018-01-27T18:50:25.1867305+09:00
+  lastUpdatedAtString: 2018-01-28T01:48:43.1595902+09:00
+  lastVerifiedAtString: 2018-01-28T01:48:43.1595902+09:00
+  initializedAtString: 2018-01-27T22:21:51.1995185+09:00
   log:
+  - commitID: 32c688a11578e302a25b43aa89c80046e700f099
+    mergeA: 
+    mergeB: 
+    authorName: AkiakiShibashiba
+    authorEmail: akiakira_ta_bashi_yookan@yahoo.co.jp
+    commitEmail: akiakira_ta_bashi_yookan@yahoo.co.jp
+    commitName: AkiakiShibashiba
+    summary: fixed git error (private)
+    description: fixed git error (private)
+    timeString: 2018-01-27T19:04:30.0000000+09:00
+    commitTimeString: 2018-01-27T19:04:30.0000000+09:00
+    changes:
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scripts\change_message.cs.meta
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Assets\Scripts\change_message.cs.meta
+      projectPath: Assets\Scripts\change_message.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\socket_test.cs.meta
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Assets\Scripts\socket_test.cs.meta
+      projectPath: Assets\Scripts\socket_test.cs.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\scenes\test.unity
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Assets\scenes\test.unity
+      projectPath: Assets\scenes\test.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ShaderCache\0\048005da530467b42a74529b8a8ebfa1.bin
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\ShaderCache\0\048005da530467b42a74529b8a8ebfa1.bin
+      projectPath: Library\ShaderCache\0\048005da530467b42a74529b8a8ebfa1.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\0\06420b46cb8bab69158b921d43e88bff.bin
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\ShaderCache\0\06420b46cb8bab69158b921d43e88bff.bin
+      projectPath: Library\ShaderCache\0\06420b46cb8bab69158b921d43e88bff.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\0\0811fcea9b63227ca1be73fc860697a7.bin
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\ShaderCache\0\0811fcea9b63227ca1be73fc860697a7.bin
+      projectPath: Library\ShaderCache\0\0811fcea9b63227ca1be73fc860697a7.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\1\1d576b552b85e3a528500834432d4ae6.bin
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\ShaderCache\1\1d576b552b85e3a528500834432d4ae6.bin
+      projectPath: Library\ShaderCache\1\1d576b552b85e3a528500834432d4ae6.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\4\46feb43e4aa3c1b91358b893d2fbf527.bin
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\ShaderCache\4\46feb43e4aa3c1b91358b893d2fbf527.bin
+      projectPath: Library\ShaderCache\4\46feb43e4aa3c1b91358b893d2fbf527.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\7\7025c08e908fbef23064f3bd0290715f.bin
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\ShaderCache\7\7025c08e908fbef23064f3bd0290715f.bin
+      projectPath: Library\ShaderCache\7\7025c08e908fbef23064f3bd0290715f.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\7\7cf46a93d58c324617c1b3bc7d33d448.bin
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\ShaderCache\7\7cf46a93d58c324617c1b3bc7d33d448.bin
+      projectPath: Library\ShaderCache\7\7cf46a93d58c324617c1b3bc7d33d448.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\9\99035d91cce52bf62833490d6ae33413.bin
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\ShaderCache\9\99035d91cce52bf62833490d6ae33413.bin
+      projectPath: Library\ShaderCache\9\99035d91cce52bf62833490d6ae33413.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\d\dd6b46c64f25ddd63164bad467bb2ea4.bin
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\ShaderCache\d\dd6b46c64f25ddd63164bad467bb2ea4.bin
+      projectPath: Library\ShaderCache\d\dd6b46c64f25ddd63164bad467bb2ea4.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\e\ef01045bac2c3242d53f4cfedc54c4a1.bin
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\ShaderCache\e\ef01045bac2c3242d53f4cfedc54c4a1.bin
+      projectPath: Library\ShaderCache\e\ef01045bac2c3242d53f4cfedc54c4a1.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\69\69d40163cacd0fc429a84dcf0ed2502e
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\metadata\69\69d40163cacd0fc429a84dcf0ed2502e
+      projectPath: Library\metadata\69\69d40163cacd0fc429a84dcf0ed2502e
+      originalPath: Library\metadata\30\30108548b4670254fb6acf4839f3bdaf
+      status: 6
+      staged: 0
+    - path: Library\metadata\69\69d40163cacd0fc429a84dcf0ed2502e.info
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\metadata\69\69d40163cacd0fc429a84dcf0ed2502e.info
+      projectPath: Library\metadata\69\69d40163cacd0fc429a84dcf0ed2502e.info
+      originalPath: Library\metadata\30\30108548b4670254fb6acf4839f3bdaf.info
+      status: 6
+      staged: 0
+    - path: Library\metadata\ad\adb132b845aa29b4ca63ca738afd795b
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\metadata\ad\adb132b845aa29b4ca63ca738afd795b
+      projectPath: Library\metadata\ad\adb132b845aa29b4ca63ca738afd795b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ad\adb132b845aa29b4ca63ca738afd795b.info
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\metadata\ad\adb132b845aa29b4ca63ca738afd795b.info
+      projectPath: Library\metadata\ad\adb132b845aa29b4ca63ca738afd795b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: hackason.userprefs
+      fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\hackason.userprefs
+      projectPath: hackason.userprefs
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 562917614b23eb47bfdafa3006f6d79c40c3177c
     mergeA: 
     mergeB: 

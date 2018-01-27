@@ -15,9 +15,16 @@ public class socket_test: MonoBehaviour {
 
 	WebSocket ws;
 
+	public GameObject yoko_prefab;
+
+	public int flg;
+	public string pname;
+
 	void Start()
 	{
-		ws = new WebSocket("ws://localhost:8080/");
+		flg = 0;
+
+		ws = new WebSocket("ws://localhost:8080/ws");
 
 		ws.OnOpen += (sender, e) =>
 		{
@@ -27,6 +34,11 @@ public class socket_test: MonoBehaviour {
 		ws.OnMessage += (sender, e) =>
 		{
 			Debug.Log(e.Data);
+			Person_Data recieve_message = new Person_Data ();
+			recieve_message = JsonUtility.FromJson<Person_Data>(e.Data);
+			//Debug.Log(recieve_message.Name);
+			pname = recieve_message.Name;
+			flg = 1;
 		};
 
 		ws.OnError += (sender, e) =>
@@ -52,7 +64,7 @@ public class socket_test: MonoBehaviour {
 
 			Person_Data mydata = new Person_Data ();
 			mydata.Name = "Yoko";
-			mydata.Message = "1->10 !!";
+			mydata.Message = "1 to 10 !!";
 
 			string send_message = JsonUtility.ToJson (mydata);
 			Debug.Log (send_message);
@@ -60,20 +72,23 @@ public class socket_test: MonoBehaviour {
 			ws.Send(send_message);
 		}
 
-	}
+		if (flg == 1) {
+			if (pname == "Yoko") {
+				UnityEngine.Quaternion appear_rotation = UnityEngine.Quaternion.identity;
+				Instantiate (yoko_prefab, new Vector3 (UnityEngine.Random.Range (-2.0f, 2.0f), 1.5f, -1.5f), appear_rotation);
+			} else {
+			}
+			flg = 0;
+		}
 
-	/*
-	string ChangeJson()
+	}
+		
+	void appear_person ()
 	{
-		Person_Data mydata = new Person_Data ();
-		mydata.Name = "Yoko";
-		mydata.Message = "1->10 !!";
-
-		string message = JsonUtility.ToJson (mydata);
-		return message;
-		Debug.Log ("message");
+		Vector3 appear_position = new Vector3 (-2.0f, 1.5f, -1.5f);
+		UnityEngine.Quaternion appear_rotation = UnityEngine.Quaternion.identity;
+		Instantiate(yoko_prefab, appear_position, appear_rotation);
 	}
-	*/
 	
 	void OnDestroy()
 	{
