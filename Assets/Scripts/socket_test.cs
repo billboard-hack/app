@@ -25,7 +25,7 @@ public class socket_test: MonoBehaviour {
 		flg = 0;
 
 		ws = new WebSocket("ws://localhost:8080/ws");
-
+		//ws = new WebSocket("ws://billboard-wsserver.herokuapp.com/ws");
 		ws.OnOpen += (sender, e) =>
 		{
 			Debug.Log("WebSocket Open");

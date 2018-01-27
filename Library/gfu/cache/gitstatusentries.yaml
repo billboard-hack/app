@@ -11,37 +11,13 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-28T01:48:39.0093524+09:00
-  lastVerifiedAtString: 2018-01-28T01:48:39.1276668+09:00
-  initializedAtString: 2018-01-27T22:21:52.2785526+09:00
+  lastUpdatedAtString: 2018-01-28T01:57:58.3983456+09:00
+  lastVerifiedAtString: 2018-01-28T01:57:58.8728603+09:00
+  initializedAtString: 2018-01-28T01:51:56.6469470+09:00
   entries:
   - path: Assets\Scripts\socket_test.cs
     fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Assets\Scripts\socket_test.cs
     projectPath: Assets\Scripts\socket_test.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\scenes\test.unity
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Assets\scenes\test.unity
-    projectPath: Assets\scenes\test.unity
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\CurrentLayout.dwlt
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\CurrentLayout.dwlt
-    projectPath: Library\CurrentLayout.dwlt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     status: 3
     staged: 0
@@ -99,63 +75,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: hackason.userprefs
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\hackason.userprefs
-    projectPath: hackason.userprefs
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     status: 3
-    staged: 0
-  - path: Assets\Prefabs.meta
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Assets\Prefabs.meta
-    projectPath: Assets\Prefabs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Prefabs\yoko.prefab
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Assets\Prefabs\yoko.prefab
-    projectPath: Assets\Prefabs\yoko.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Prefabs\yoko.prefab.meta
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Assets\Prefabs\yoko.prefab.meta
-    projectPath: Assets\Prefabs\yoko.prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\CrashedAssetImports.txt
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\CrashedAssetImports.txt
-    projectPath: Library\CrashedAssetImports.txt
-    originalPath: 
-    status: 1
     staged: 0
   - path: Library\EditorInstance.json
     fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ea\eadad3f08fcf16041b1907d97df070fe
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\metadata\ea\eadad3f08fcf16041b1907d97df070fe
-    projectPath: Library\metadata\ea\eadad3f08fcf16041b1907d97df070fe
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ea\eadad3f08fcf16041b1907d97df070fe.info
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\metadata\ea\eadad3f08fcf16041b1907d97df070fe.info
-    projectPath: Library\metadata\ea\eadad3f08fcf16041b1907d97df070fe.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\fb\fb652ba33bc8cc34d8cba7be28771539
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\metadata\fb\fb652ba33bc8cc34d8cba7be28771539
-    projectPath: Library\metadata\fb\fb652ba33bc8cc34d8cba7be28771539
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\fb\fb652ba33bc8cc34d8cba7be28771539.info
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\metadata\fb\fb652ba33bc8cc34d8cba7be28771539.info
-    projectPath: Library\metadata\fb\fb652ba33bc8cc34d8cba7be28771539.info
     originalPath: 
     status: 1
     staged: 0
@@ -171,159 +99,15 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-09f9eb462f1cf4944887bfc2635d271a
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-09f9eb462f1cf4944887bfc2635d271a
-    projectPath: Temp\UnityTempFile-09f9eb462f1cf4944887bfc2635d271a
+  - path: Temp\UnityTempFile-1d7a0efb05cb9f5409e1377b49e3b802
+    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-1d7a0efb05cb9f5409e1377b49e3b802
+    projectPath: Temp\UnityTempFile-1d7a0efb05cb9f5409e1377b49e3b802
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-27c79ad9ab466d04d8ce7dac26444c7b
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-27c79ad9ab466d04d8ce7dac26444c7b
-    projectPath: Temp\UnityTempFile-27c79ad9ab466d04d8ce7dac26444c7b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-2aeb9fe6494044d4d99573b04e08e909
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-2aeb9fe6494044d4d99573b04e08e909
-    projectPath: Temp\UnityTempFile-2aeb9fe6494044d4d99573b04e08e909
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-3e11843421d25de43aa05d8b7c223b3e
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-3e11843421d25de43aa05d8b7c223b3e
-    projectPath: Temp\UnityTempFile-3e11843421d25de43aa05d8b7c223b3e
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-5cec6acd4e121d3438f60f12db15e652
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-5cec6acd4e121d3438f60f12db15e652
-    projectPath: Temp\UnityTempFile-5cec6acd4e121d3438f60f12db15e652
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-65674718b5a62fa4885dee8d96021c55
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-65674718b5a62fa4885dee8d96021c55
-    projectPath: Temp\UnityTempFile-65674718b5a62fa4885dee8d96021c55
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-696bff2eadda15447b4fbf75c1dda7c3
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-696bff2eadda15447b4fbf75c1dda7c3
-    projectPath: Temp\UnityTempFile-696bff2eadda15447b4fbf75c1dda7c3
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-7a73d52226df0d243b3c4068760dde2c
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-7a73d52226df0d243b3c4068760dde2c
-    projectPath: Temp\UnityTempFile-7a73d52226df0d243b3c4068760dde2c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-7a864e3e0d464b2479ae9253ad7f0907
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-7a864e3e0d464b2479ae9253ad7f0907
-    projectPath: Temp\UnityTempFile-7a864e3e0d464b2479ae9253ad7f0907
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-870f24777f452b04cb0490316a32f8ad
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-870f24777f452b04cb0490316a32f8ad
-    projectPath: Temp\UnityTempFile-870f24777f452b04cb0490316a32f8ad
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-8801d03c68d7d6745ab4f5a8d19b8da4
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-8801d03c68d7d6745ab4f5a8d19b8da4
-    projectPath: Temp\UnityTempFile-8801d03c68d7d6745ab4f5a8d19b8da4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-8eacc2adb04feb042ad3194f5239865f
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-8eacc2adb04feb042ad3194f5239865f
-    projectPath: Temp\UnityTempFile-8eacc2adb04feb042ad3194f5239865f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-91e734a6030c6774db3711d1ec50d54a
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-91e734a6030c6774db3711d1ec50d54a
-    projectPath: Temp\UnityTempFile-91e734a6030c6774db3711d1ec50d54a
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-9a070c64dd6b00543a7d1c49f542b86f
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-9a070c64dd6b00543a7d1c49f542b86f
-    projectPath: Temp\UnityTempFile-9a070c64dd6b00543a7d1c49f542b86f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-a4e43d90fea76e14ca2c92938206e851
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-a4e43d90fea76e14ca2c92938206e851
-    projectPath: Temp\UnityTempFile-a4e43d90fea76e14ca2c92938206e851
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-a81085102301ed64f97ee63698fa680f
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-a81085102301ed64f97ee63698fa680f
-    projectPath: Temp\UnityTempFile-a81085102301ed64f97ee63698fa680f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-c43ef4eda1c143743abba3ed5126cc23
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-c43ef4eda1c143743abba3ed5126cc23
-    projectPath: Temp\UnityTempFile-c43ef4eda1c143743abba3ed5126cc23
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-c9520ef7ab2fea74d895ff3e435125fa
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-c9520ef7ab2fea74d895ff3e435125fa
-    projectPath: Temp\UnityTempFile-c9520ef7ab2fea74d895ff3e435125fa
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-d0ce72c38dc9b794c9ad2aabaf103321
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-d0ce72c38dc9b794c9ad2aabaf103321
-    projectPath: Temp\UnityTempFile-d0ce72c38dc9b794c9ad2aabaf103321
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-dc857e6e05573054bbf0e3bf500d1289
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-dc857e6e05573054bbf0e3bf500d1289
-    projectPath: Temp\UnityTempFile-dc857e6e05573054bbf0e3bf500d1289
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-dd6e06b6bc7e8c34a868800a4a986979
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-dd6e06b6bc7e8c34a868800a4a986979
-    projectPath: Temp\UnityTempFile-dd6e06b6bc7e8c34a868800a4a986979
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-df3fac673d00b1c4ba7396378ae40a61
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-df3fac673d00b1c4ba7396378ae40a61
-    projectPath: Temp\UnityTempFile-df3fac673d00b1c4ba7396378ae40a61
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-eb1efe2b63ac63a408196af8cc091f0d
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-eb1efe2b63ac63a408196af8cc091f0d
-    projectPath: Temp\UnityTempFile-eb1efe2b63ac63a408196af8cc091f0d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-f0a36d2c496aea3439c80bd58bee396c
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-f0a36d2c496aea3439c80bd58bee396c
-    projectPath: Temp\UnityTempFile-f0a36d2c496aea3439c80bd58bee396c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-f66f58358098fb14089f7a8ab3e019ef
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-f66f58358098fb14089f7a8ab3e019ef
-    projectPath: Temp\UnityTempFile-f66f58358098fb14089f7a8ab3e019ef
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-f9e0f6c6436093044b6cb9b64810746d
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-f9e0f6c6436093044b6cb9b64810746d
-    projectPath: Temp\UnityTempFile-f9e0f6c6436093044b6cb9b64810746d
+  - path: Temp\UnityTempFile-e74e17f76bca9694ca43654152d417b9
+    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-e74e17f76bca9694ca43654152d417b9
+    projectPath: Temp\UnityTempFile-e74e17f76bca9694ca43654152d417b9
     originalPath: 
     status: 1
     staged: 0
