@@ -2,10 +2,16 @@
 
 using UnityEngine;
 using System.Collections;
+using System;
 using WebSocketSharp;
 using WebSocketSharp.Net;
 
 public class socket_test: MonoBehaviour {
+
+	[System.Serializable]
+	public class Person_Data{
+		public string Name, Message;
+	}
 
 	WebSocket ws;
 
@@ -42,9 +48,21 @@ public class socket_test: MonoBehaviour {
 
 		if (Input.GetKeyUp("s"))
 		{
-			ws.Send("message");
+			string send_message = ChangeJson ();
+			ws.Send(send_message);
 		}
 
+	}
+
+	string ChangeJson()
+	{
+		Person_Data mydata = new Person_Data ();
+		mydata.Name = "Yoko";
+		mydata.Message = "1->10 !!";
+
+		string message = JsonUtility.ToJson (mydata);
+		return message;
+		Debug.Log (message);
 	}
 
 	void OnDestroy()
