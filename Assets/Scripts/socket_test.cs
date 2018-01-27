@@ -48,12 +48,21 @@ public class socket_test: MonoBehaviour {
 
 		if (Input.GetKeyUp("s"))
 		{
-			string send_message = ChangeJson ();
+			//string send_message = ChangeJson ();
+
+			Person_Data mydata = new Person_Data ();
+			mydata.Name = "Yoko";
+			mydata.Message = "1->10 !!";
+
+			string send_message = JsonUtility.ToJson (mydata);
+			Debug.Log (send_message);
+
 			ws.Send(send_message);
 		}
 
 	}
 
+	/*
 	string ChangeJson()
 	{
 		Person_Data mydata = new Person_Data ();
@@ -62,12 +71,15 @@ public class socket_test: MonoBehaviour {
 
 		string message = JsonUtility.ToJson (mydata);
 		return message;
-		Debug.Log (message);
+		Debug.Log ("message");
 	}
-
+	*/
+	
 	void OnDestroy()
 	{
 		ws.Close();
 		ws = null;
 	}
 }
+
+
