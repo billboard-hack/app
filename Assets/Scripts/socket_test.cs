@@ -11,7 +11,7 @@ public class socket_test: MonoBehaviour {
 
 	void Start()
 	{
-		ws = new WebSocket("ws://localhost:3000/");
+		ws = new WebSocket("ws://localhost:8080/");
 
 		ws.OnOpen += (sender, e) =>
 		{
