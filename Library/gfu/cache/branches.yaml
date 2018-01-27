@@ -11,9 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-27T10:41:01.4188755+09:00
-  lastVerifiedAtString: 2018-01-27T10:41:01.4479670+09:00
-  initializedAtString: 2018-01-27T10:29:55.9187529+09:00
+  lastUpdatedAtString: 2018-01-27T19:00:30.1945373+09:00
+  lastVerifiedAtString: 2018-01-27T19:00:30.2035628+09:00
+  initializedAtString: 2018-01-27T18:50:23.2127206+09:00
   gitConfigBranch:
     name: socket_com
     remote:
@@ -40,6 +40,12 @@ MonoBehaviour:
     tracking: '[None]'
     isActive: 0
   - name: origin/CreatingAStage
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/dev
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/LoginButtons
     tracking: '[None]'
     isActive: 0
   - name: origin/master
@@ -86,6 +92,8 @@ MonoBehaviour:
     - Values:
       - change-animator
       - CreatingAStage
+      - dev
+      - LoginButtons
       - master
       - socket_com
     subKeyValues:
@@ -95,6 +103,14 @@ MonoBehaviour:
           name: origin
           url: https://github.com/billboard-hack/app
       - name: CreatingAStage
+        remote:
+          name: origin
+          url: https://github.com/billboard-hack/app
+      - name: dev
+        remote:
+          name: origin
+          url: https://github.com/billboard-hack/app
+      - name: LoginButtons
         remote:
           name: origin
           url: https://github.com/billboard-hack/app

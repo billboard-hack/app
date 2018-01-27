@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\AddCharacterButton.cs" />
+     <Compile Include="Assets\Scripts\change_message.cs" />
      <Compile Include="Assets\Scripts\socket_test.cs" />
      <None Include="Assets\Plugins\GitHub\Editor\CREDITS.txt" />
      <None Include="Assets\Plugins\GitHub\Editor\EULA.txt" />
@@ -76,20 +77,17 @@
  <Reference Include="UnityEngine.HoloLens">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
  </Reference>
+ <Reference Include="SimpleJson">
+ <HintPath>C:/Users/oonoak/shiba/unity_ws/hackason/Assets/Plugins/SimpleJson.dll</HintPath>
+ </Reference>
+ <Reference Include="SocketIO">
+ <HintPath>C:/Users/oonoak/shiba/unity_ws/hackason/Assets/Plugins/SocketIO.dll</HintPath>
+ </Reference>
  <Reference Include="SuperSocket.ClientEngine.Common">
  <HintPath>C:/Users/oonoak/shiba/unity_ws/hackason/Assets/Plugins/SuperSocket.ClientEngine.Common.dll</HintPath>
  </Reference>
- <Reference Include="websocket-sharp">
- <HintPath>C:/Users/oonoak/shiba/unity_ws/hackason/Assets/Plugins/old/websocket-sharp.dll</HintPath>
- </Reference>
- <Reference Include="WebSocket4Net">
- <HintPath>C:/Users/oonoak/shiba/unity_ws/hackason/Assets/Plugins/WebSocket4Net.dll</HintPath>
- </Reference>
  <Reference Include="SuperSocket.ClientEngine.Core">
  <HintPath>C:/Users/oonoak/shiba/unity_ws/hackason/Assets/Plugins/SuperSocket.ClientEngine.Core.dll</HintPath>
- </Reference>
- <Reference Include="SimpleJson">
- <HintPath>C:/Users/oonoak/shiba/unity_ws/hackason/Assets/Plugins/SimpleJson.dll</HintPath>
  </Reference>
  <Reference Include="SuperSocket.ClientEngine.Protocol">
  <HintPath>C:/Users/oonoak/shiba/unity_ws/hackason/Assets/Plugins/SuperSocket.ClientEngine.Protocol.dll</HintPath>
@@ -97,8 +95,11 @@
  <Reference Include="SuperSocket.ClientEngine.Proxy">
  <HintPath>C:/Users/oonoak/shiba/unity_ws/hackason/Assets/Plugins/SuperSocket.ClientEngine.Proxy.dll</HintPath>
  </Reference>
- <Reference Include="SocketIO">
- <HintPath>C:/Users/oonoak/shiba/unity_ws/hackason/Assets/Plugins/SocketIO.dll</HintPath>
+ <Reference Include="WebSocket4Net">
+ <HintPath>C:/Users/oonoak/shiba/unity_ws/hackason/Assets/Plugins/WebSocket4Net.dll</HintPath>
+ </Reference>
+ <Reference Include="websocket-sharp">
+ <HintPath>C:/Users/oonoak/shiba/unity_ws/hackason/Assets/Plugins/old/websocket-sharp.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
