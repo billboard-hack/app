@@ -11,37 +11,46 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-21T03:36:05.5946480+09:00
-  lastVerifiedAtString: 2018-01-21T03:36:05.6023230+09:00
-  initializedAtString: 2018-01-21T02:31:29.0354260+09:00
+  lastUpdatedAtString: 2018-01-27T10:41:01.4188755+09:00
+  lastVerifiedAtString: 2018-01-27T10:41:01.4479670+09:00
+  initializedAtString: 2018-01-27T10:29:55.9187529+09:00
   gitConfigBranch:
-    name: CreatingAStage
+    name: socket_com
     remote:
       name: origin
-      url: https://github.com/billboard-hack/app.git
+      url: https://github.com/billboard-hack/app
   gitConfigRemote:
     name: origin
-    url: https://github.com/billboard-hack/app.git
+    url: https://github.com/billboard-hack/app
   localBranches:
+  - name: change-animator
+    tracking: origin/change-animator
+    isActive: 0
   - name: CreatingAStage
     tracking: origin/CreatingAStage
-    isActive: 1
-  - name: master
-    tracking: origin/master
     isActive: 0
+  - name: master
+    tracking: '[None]'
+    isActive: 0
+  - name: socket_com
+    tracking: origin/socket_com
+    isActive: 1
   remoteBranches:
+  - name: origin/change-animator
+    tracking: '[None]'
+    isActive: 0
   - name: origin/CreatingAStage
     tracking: '[None]'
     isActive: 0
-  - name: origin/HEAD
+  - name: origin/master
     tracking: '[None]'
     isActive: 0
-  - name: origin/change-animator
+  - name: origin/socket_com
     tracking: '[None]'
     isActive: 0
   remotes:
   - name: origin
-    url: https://github.com/billboard-hack/app.git
+    url: https://github.com/billboard-hack/app
     login: 
     user: 
     host: 
@@ -49,42 +58,57 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - change-animator
     - CreatingAStage
     - master
+    - socket_com
     values:
+    - name: change-animator
+      remote:
+        name: origin
+        url: https://github.com/billboard-hack/app
     - name: CreatingAStage
       remote:
         name: origin
-        url: https://github.com/billboard-hack/app.git
+        url: https://github.com/billboard-hack/app
     - name: master
       remote:
+        name: 
+        url: 
+    - name: socket_com
+      remote:
         name: origin
-        url: https://github.com/billboard-hack/app.git
+        url: https://github.com/billboard-hack/app
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
-      - CreatingAStage
-      - HEAD
       - change-animator
+      - CreatingAStage
+      - master
+      - socket_com
     subKeyValues:
     - Values:
-      - name: CreatingAStage
-        remote:
-          name: origin
-          url: https://github.com/billboard-hack/app.git
-      - name: HEAD
-        remote:
-          name: origin
-          url: https://github.com/billboard-hack/app.git
       - name: change-animator
         remote:
           name: origin
-          url: https://github.com/billboard-hack/app.git
+          url: https://github.com/billboard-hack/app
+      - name: CreatingAStage
+        remote:
+          name: origin
+          url: https://github.com/billboard-hack/app
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/billboard-hack/app
+      - name: socket_com
+        remote:
+          name: origin
+          url: https://github.com/billboard-hack/app
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/billboard-hack/app.git
+      url: https://github.com/billboard-hack/app
