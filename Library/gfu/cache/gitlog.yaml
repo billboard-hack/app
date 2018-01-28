@@ -11,10 +11,196 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-28T21:33:15.6041930+09:00
-  lastVerifiedAtString: 2018-01-28T21:33:15.6041930+09:00
+  lastUpdatedAtString: 2018-01-28T22:09:57.3960990+09:00
+  lastVerifiedAtString: 2018-01-28T22:09:57.3960990+09:00
   initializedAtString: 2018-01-28T17:09:40.2881370+09:00
   log:
+  - commitID: 01b9610ab1be5cf82bfe61966cc0abc01306f5fb
+    mergeA: 
+    mergeB: 
+    authorName: Tomoaki-Tsuchiya
+    authorEmail: tomt0m.25.g00cl@gmail.com
+    commitEmail: tomt0m.25.g00cl@gmail.com
+    commitName: Tomoaki-Tsuchiya
+    summary: New characters added
+    description: New characters added
+    timeString: 2018-01-28T22:01:49.0000000+09:00
+    commitTimeString: 2018-01-28T22:01:49.0000000+09:00
+    changes:
+    - path: Assets/Prefabs/yoko.prefab
+      fullPath: /Users/tomoaki/Humanoid/app/Assets/Prefabs/yoko.prefab
+      projectPath: Assets/Prefabs/yoko.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets/scenes/LogIn.unity
+      fullPath: /Users/tomoaki/Humanoid/app/Assets/scenes/LogIn.unity
+      projectPath: Assets/scenes/LogIn.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets/scenes/test.unity
+      fullPath: /Users/tomoaki/Humanoid/app/Assets/scenes/test.unity
+      projectPath: Assets/scenes/test.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets/yoko/kari_blue.jpg
+      fullPath: /Users/tomoaki/Humanoid/app/Assets/yoko/kari_blue.jpg
+      projectPath: Assets/yoko/kari_blue.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/yoko/kari_blue.jpg.meta
+      fullPath: /Users/tomoaki/Humanoid/app/Assets/yoko/kari_blue.jpg.meta
+      projectPath: Assets/yoko/kari_blue.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/yoko/kari_white.jpg
+      fullPath: /Users/tomoaki/Humanoid/app/Assets/yoko/kari_white.jpg
+      projectPath: Assets/yoko/kari_white.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/yoko/kari_white.jpg.meta
+      fullPath: /Users/tomoaki/Humanoid/app/Assets/yoko/kari_white.jpg.meta
+      projectPath: Assets/yoko/kari_white.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/yoko/kari_white2.jpg
+      fullPath: /Users/tomoaki/Humanoid/app/Assets/yoko/kari_white2.jpg
+      projectPath: Assets/yoko/kari_white2.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/yoko/kari_white2.jpg.meta
+      fullPath: /Users/tomoaki/Humanoid/app/Assets/yoko/kari_white2.jpg.meta
+      projectPath: Assets/yoko/kari_white2.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/yoko/shiba.jpg
+      fullPath: /Users/tomoaki/Humanoid/app/Assets/yoko/shiba.jpg
+      projectPath: Assets/yoko/shiba.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/yoko/shiba.jpg.meta
+      fullPath: /Users/tomoaki/Humanoid/app/Assets/yoko/shiba.jpg.meta
+      projectPath: Assets/yoko/shiba.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/yoko/tsuchi.jpg
+      fullPath: /Users/tomoaki/Humanoid/app/Assets/yoko/tsuchi.jpg
+      projectPath: Assets/yoko/tsuchi.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/yoko/tsuchi.jpg.meta
+      fullPath: /Users/tomoaki/Humanoid/app/Assets/yoko/tsuchi.jpg.meta
+      projectPath: Assets/yoko/tsuchi.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/CrashedAssetImports.txt
+      fullPath: /Users/tomoaki/Humanoid/app/Library/CrashedAssetImports.txt
+      projectPath: Library/CrashedAssetImports.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/assetDatabase3
+      fullPath: /Users/tomoaki/Humanoid/app/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/03/030ae3e28cdae40fb99203295a40bdbb
+      fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/03/030ae3e28cdae40fb99203295a40bdbb
+      projectPath: Library/metadata/03/030ae3e28cdae40fb99203295a40bdbb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/03/030ae3e28cdae40fb99203295a40bdbb.info
+      fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/03/030ae3e28cdae40fb99203295a40bdbb.info
+      projectPath: Library/metadata/03/030ae3e28cdae40fb99203295a40bdbb.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/04/04ac702464a734ebfb74df8058713589
+      fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/04/04ac702464a734ebfb74df8058713589
+      projectPath: Library/metadata/04/04ac702464a734ebfb74df8058713589
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/04/04ac702464a734ebfb74df8058713589.info
+      fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/04/04ac702464a734ebfb74df8058713589.info
+      projectPath: Library/metadata/04/04ac702464a734ebfb74df8058713589.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/38/38e6cf14bdd924cdf9a8e76cf9f0bebb
+      fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/38/38e6cf14bdd924cdf9a8e76cf9f0bebb
+      projectPath: Library/metadata/38/38e6cf14bdd924cdf9a8e76cf9f0bebb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/38/38e6cf14bdd924cdf9a8e76cf9f0bebb.info
+      fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/38/38e6cf14bdd924cdf9a8e76cf9f0bebb.info
+      projectPath: Library/metadata/38/38e6cf14bdd924cdf9a8e76cf9f0bebb.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/5d/5dc98997f21bf492d9709ec121638a00
+      fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/5d/5dc98997f21bf492d9709ec121638a00
+      projectPath: Library/metadata/5d/5dc98997f21bf492d9709ec121638a00
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/5d/5dc98997f21bf492d9709ec121638a00.info
+      fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/5d/5dc98997f21bf492d9709ec121638a00.info
+      projectPath: Library/metadata/5d/5dc98997f21bf492d9709ec121638a00.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/6b/6bfd4b35267b24904896e3b2ad49efce
+      fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/6b/6bfd4b35267b24904896e3b2ad49efce
+      projectPath: Library/metadata/6b/6bfd4b35267b24904896e3b2ad49efce
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/6b/6bfd4b35267b24904896e3b2ad49efce.info
+      fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/6b/6bfd4b35267b24904896e3b2ad49efce.info
+      projectPath: Library/metadata/6b/6bfd4b35267b24904896e3b2ad49efce.info
+      originalPath: 
+      status: 4
+      staged: 0
   - commitID: 764a50b4de65846710fc4e9f7bb0355a664b4ace
     mergeA: 
     mergeB: 

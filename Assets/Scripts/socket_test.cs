@@ -5,6 +5,7 @@ using System.Collections;
 using System;
 using WebSocketSharp;
 using WebSocketSharp.Net;
+using UnityEngine.SceneManagement;
 
 public class socket_test: MonoBehaviour {
 
@@ -16,6 +17,7 @@ public class socket_test: MonoBehaviour {
 	WebSocket ws;
 
 	public GameObject yoko_prefab;
+	private bool loggingIn;
 
 	public int flg;
 	public string pname;
@@ -23,35 +25,41 @@ public class socket_test: MonoBehaviour {
 	void Start()
 	{
 		flg = 0;
+		//Login状態をかくにん
+		if (!UserAuth.getUserId ().IsNullOrEmpty) {
+			loggingIn = true;
+		} else {
+			loggingIn = false;
+		}
 
-		ws = new WebSocket("ws://localhost:8080/ws");
-		//ws = new WebSocket("ws://billboard-wsserver.herokuapp.com/ws");
-		ws.OnOpen += (sender, e) =>
-		{
-			Debug.Log("WebSocket Open");
-		};
+		if (loggingIn) {
+			ws = new WebSocket ("ws://localhost:8080/ws");
+			//ws = new WebSocket("ws://billboard-wsserver.herokuapp.com/ws");
+			ws.OnOpen += (sender, e) => {
+				Debug.Log ("WebSocket Open");
+			};
 
-		ws.OnMessage += (sender, e) =>
-		{
-			Debug.Log(e.Data);
-			Person_Data recieve_message = new Person_Data ();
-			recieve_message = JsonUtility.FromJson<Person_Data>(e.Data);
-			//Debug.Log(recieve_message.Name);
-			pname = recieve_message.Name;
-			flg = 1;
-		};
+			ws.OnMessage += (sender, e) => {
+				Debug.Log (e.Data);
+				Person_Data recieve_message = new Person_Data ();
+				recieve_message = JsonUtility.FromJson<Person_Data> (e.Data);
+				//Debug.Log(recieve_message.Name);
+				pname = recieve_message.Name;
+				flg = 1;
+			};
 
-		ws.OnError += (sender, e) =>
-		{
-			Debug.Log("WebSocket Error Message: " + e.Message);
-		};
+			ws.OnError += (sender, e) => {
+				Debug.Log ("WebSocket Error Message: " + e.Message);
+			};
 
-		ws.OnClose += (sender, e) =>
-		{
-			Debug.Log("WebSocket Close");
-		};
+			ws.OnClose += (sender, e) => {
+				Debug.Log ("WebSocket Close");
+			};
 
-		ws.Connect();
+			ws.Connect ();
+		} else {
+			logout ();
+		}
 
 	}
 
@@ -95,6 +103,11 @@ public class socket_test: MonoBehaviour {
 		ws.Close();
 		ws = null;
 	}
+
+	void logout (){
+		SceneManager.LoadScene ("Login",LoadSceneMode.Single);
+	}
+
 }
 
 
