@@ -11,109 +11,1315 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-28T01:57:58.3983456+09:00
-  lastVerifiedAtString: 2018-01-28T01:57:58.8728603+09:00
-  initializedAtString: 2018-01-28T01:51:56.6469470+09:00
+  lastUpdatedAtString: 2018-01-28T17:13:08.9588770+09:00
+  lastVerifiedAtString: 2018-01-28T17:13:10.0229970+09:00
+  initializedAtString: 2018-01-28T17:09:41.7924720+09:00
   entries:
-  - path: Assets\Scripts\socket_test.cs
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Assets\Scripts\socket_test.cs
-    projectPath: Assets\Scripts\socket_test.cs
+  - path: Assembly-CSharp.csproj
+    fullPath: /Users/tomoaki/Humanoid/app/Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+  - path: Library/AssetImportState
+    fullPath: /Users/tomoaki/Humanoid/app/Library/AssetImportState
+    projectPath: Library/AssetImportState
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\assetDatabase3
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\assetDatabase3
-    projectPath: Library\assetDatabase3
+  - path: Library/EditorUserBuildSettings.asset
+    fullPath: /Users/tomoaki/Humanoid/app/Library/EditorUserBuildSettings.asset
+    projectPath: Library/EditorUserBuildSettings.asset
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
+  - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    fullPath: /Users/tomoaki/Humanoid/app/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
+  - path: Library/ScriptMapper
+    fullPath: /Users/tomoaki/Humanoid/app/Library/ScriptMapper
+    projectPath: Library/ScriptMapper
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\gfu\cache\gittrackingstatus.yaml
-    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+  - path: Library/assetDatabase3
+    fullPath: /Users/tomoaki/Humanoid/app/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\gfu\cache\gituser.yaml
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\69\69d40163cacd0fc429a84dcf0ed2502e
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\metadata\69\69d40163cacd0fc429a84dcf0ed2502e
-    projectPath: Library\metadata\69\69d40163cacd0fc429a84dcf0ed2502e
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\EditorInstance.json
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gituser.yaml
+    fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/00/00000000000000003000000000000000
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/00/00000000000000003000000000000000
+    projectPath: Library/metadata/00/00000000000000003000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/00/0000000000000000b000000000000000
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/00/0000000000000000b000000000000000
+    projectPath: Library/metadata/00/0000000000000000b000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/01/01109fd6f606fbf479b4dddfd24be678
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/01/01109fd6f606fbf479b4dddfd24be678
+    projectPath: Library/metadata/01/01109fd6f606fbf479b4dddfd24be678
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/01/01109fd6f606fbf479b4dddfd24be678.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/01/01109fd6f606fbf479b4dddfd24be678.info
+    projectPath: Library/metadata/01/01109fd6f606fbf479b4dddfd24be678.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/0d/0d3bb855445e36e479c85976fc88383a
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/0d/0d3bb855445e36e479c85976fc88383a
+    projectPath: Library/metadata/0d/0d3bb855445e36e479c85976fc88383a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333
+    projectPath: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333.info
+    projectPath: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77
+    projectPath: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77.info
+    projectPath: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/1f/1ff6191822317c94cb07e98da3924158
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/1f/1ff6191822317c94cb07e98da3924158
+    projectPath: Library/metadata/1f/1ff6191822317c94cb07e98da3924158
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1
+    projectPath: Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/23/23fba7afaa8609e4c8da59246645fd91
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/23/23fba7afaa8609e4c8da59246645fd91
+    projectPath: Library/metadata/23/23fba7afaa8609e4c8da59246645fd91
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/26/2682a692a2be7e14e901a738c7806da0
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/26/2682a692a2be7e14e901a738c7806da0
+    projectPath: Library/metadata/26/2682a692a2be7e14e901a738c7806da0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/29/29f675bfe7ed9db44b902d792ab3c949
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/29/29f675bfe7ed9db44b902d792ab3c949
+    projectPath: Library/metadata/29/29f675bfe7ed9db44b902d792ab3c949
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/2f/2fe3476eabbbb6c448e6b55a2cc471f5
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/2f/2fe3476eabbbb6c448e6b55a2cc471f5
+    projectPath: Library/metadata/2f/2fe3476eabbbb6c448e6b55a2cc471f5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/32/32188fd89022c154c81befa2f0e00be0
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/32/32188fd89022c154c81befa2f0e00be0
+    projectPath: Library/metadata/32/32188fd89022c154c81befa2f0e00be0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9
+    projectPath: Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc
+    projectPath: Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/40/405b9b51bb344a128608d968297df79c
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/40/405b9b51bb344a128608d968297df79c
+    projectPath: Library/metadata/40/405b9b51bb344a128608d968297df79c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/41/4113173d5e95493ab8765d7b08371de4
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/41/4113173d5e95493ab8765d7b08371de4
+    projectPath: Library/metadata/41/4113173d5e95493ab8765d7b08371de4
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/41/4113173d5e95493ab8765d7b08371de4.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/41/4113173d5e95493ab8765d7b08371de4.info
+    projectPath: Library/metadata/41/4113173d5e95493ab8765d7b08371de4.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/49/49f5766d0d4954f44b85d4bbd7131677
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/49/49f5766d0d4954f44b85d4bbd7131677
+    projectPath: Library/metadata/49/49f5766d0d4954f44b85d4bbd7131677
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8
+    projectPath: Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f
+    projectPath: Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/4c/4c953a377877a574192f29a93f0ec498
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/4c/4c953a377877a574192f29a93f0ec498
+    projectPath: Library/metadata/4c/4c953a377877a574192f29a93f0ec498
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/51/517af1b5b81b93b43b9745d58f017562
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/51/517af1b5b81b93b43b9745d58f017562
+    projectPath: Library/metadata/51/517af1b5b81b93b43b9745d58f017562
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/53/5337b73d4c45eb14c908e84bde981811
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/53/5337b73d4c45eb14c908e84bde981811
+    projectPath: Library/metadata/53/5337b73d4c45eb14c908e84bde981811
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    projectPath: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+    projectPath: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc
+    projectPath: Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+    projectPath: Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/69/6981461fe431401459211818212a29cf
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/69/6981461fe431401459211818212a29cf
+    projectPath: Library/metadata/69/6981461fe431401459211818212a29cf
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/69/69d40163cacd0fc429a84dcf0ed2502e
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/69/69d40163cacd0fc429a84dcf0ed2502e
+    projectPath: Library/metadata/69/69d40163cacd0fc429a84dcf0ed2502e
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5
+    projectPath: Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef
+    projectPath: Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/75/75cd971d4d6a8bf458e512d2cfa7e493
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/75/75cd971d4d6a8bf458e512d2cfa7e493
+    projectPath: Library/metadata/75/75cd971d4d6a8bf458e512d2cfa7e493
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/76/7668179ede524d6396c8b7d84461ea29
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/76/7668179ede524d6396c8b7d84461ea29
+    projectPath: Library/metadata/76/7668179ede524d6396c8b7d84461ea29
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/76/7668179ede524d6396c8b7d84461ea29.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/76/7668179ede524d6396c8b7d84461ea29.info
+    projectPath: Library/metadata/76/7668179ede524d6396c8b7d84461ea29.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+    projectPath: Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/83/8382b2bb260241859771b69b7f377a8d
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/83/8382b2bb260241859771b69b7f377a8d
+    projectPath: Library/metadata/83/8382b2bb260241859771b69b7f377a8d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/84/844f815391db42d49455cbf1a7bfc434
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/84/844f815391db42d49455cbf1a7bfc434
+    projectPath: Library/metadata/84/844f815391db42d49455cbf1a7bfc434
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/84/84ca94c19f25ae14d83aa41bb3654390
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/84/84ca94c19f25ae14d83aa41bb3654390
+    projectPath: Library/metadata/84/84ca94c19f25ae14d83aa41bb3654390
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/85/850b30411a837684ab7db753196d645a
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/85/850b30411a837684ab7db753196d645a
+    projectPath: Library/metadata/85/850b30411a837684ab7db753196d645a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/85/852e56802eb941638acbb491814497b0
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/85/852e56802eb941638acbb491814497b0
+    projectPath: Library/metadata/85/852e56802eb941638acbb491814497b0
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/86/86f4de9468454445ac2f39e207fafa3a
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/86/86f4de9468454445ac2f39e207fafa3a
+    projectPath: Library/metadata/86/86f4de9468454445ac2f39e207fafa3a
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+    projectPath: Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44
+    projectPath: Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe
+    projectPath: Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/90/9078b7128e594410d9b89e5b24cffd01
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/90/9078b7128e594410d9b89e5b24cffd01
+    projectPath: Library/metadata/90/9078b7128e594410d9b89e5b24cffd01
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead
+    projectPath: Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/a6/a6de1c6f3c58f054ab8db80098f0b7ee
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/a6/a6de1c6f3c58f054ab8db80098f0b7ee
+    projectPath: Library/metadata/a6/a6de1c6f3c58f054ab8db80098f0b7ee
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/a8/a8d1c6859ffff4e66a78f323b0178f01
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/a8/a8d1c6859ffff4e66a78f323b0178f01
+    projectPath: Library/metadata/a8/a8d1c6859ffff4e66a78f323b0178f01
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/ad/adb132b845aa29b4ca63ca738afd795b
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/ad/adb132b845aa29b4ca63ca738afd795b
+    projectPath: Library/metadata/ad/adb132b845aa29b4ca63ca738afd795b
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f
+    projectPath: Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e
+    projectPath: Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70
+    projectPath: Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/d0/d05b96cee66e14240838de167097537a
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/d0/d05b96cee66e14240838de167097537a
+    projectPath: Library/metadata/d0/d05b96cee66e14240838de167097537a
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0
+    projectPath: Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb
+    projectPath: Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/e1/e1007cd261c84053beb0c3537782908d
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/e1/e1007cd261c84053beb0c3537782908d
+    projectPath: Library/metadata/e1/e1007cd261c84053beb0c3537782908d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/e6/e6a0932704862f242b1a251e8742e546
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/e6/e6a0932704862f242b1a251e8742e546
+    projectPath: Library/metadata/e6/e6a0932704862f242b1a251e8742e546
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/ea/eadad3f08fcf16041b1907d97df070fe
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/ea/eadad3f08fcf16041b1907d97df070fe
+    projectPath: Library/metadata/ea/eadad3f08fcf16041b1907d97df070fe
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/ea/eadad3f08fcf16041b1907d97df070fe.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/ea/eadad3f08fcf16041b1907d97df070fe.info
+    projectPath: Library/metadata/ea/eadad3f08fcf16041b1907d97df070fe.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+    projectPath: Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/f7/f70555f144d8491a825f0804e09c671c
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/f7/f70555f144d8491a825f0804e09c671c
+    projectPath: Library/metadata/f7/f70555f144d8491a825f0804e09c671c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc
+    projectPath: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc.info
+    projectPath: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/fb/fb652ba33bc8cc34d8cba7be28771539
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/fb/fb652ba33bc8cc34d8cba7be28771539
+    projectPath: Library/metadata/fb/fb652ba33bc8cc34d8cba7be28771539
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/tomoaki/Humanoid/app/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: .DS_Store
+    fullPath: /Users/tomoaki/Humanoid/app/.DS_Store
+    projectPath: .DS_Store
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+  - path: Assets/Scripts/LoginManager.cs
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/Scripts/LoginManager.cs
+    projectPath: Assets/Scripts/LoginManager.cs
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityLockfile
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
+  - path: Assets/Scripts/LoginManager.cs.meta
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/Scripts/LoginManager.cs.meta
+    projectPath: Assets/Scripts/LoginManager.cs.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-1d7a0efb05cb9f5409e1377b49e3b802
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-1d7a0efb05cb9f5409e1377b49e3b802
-    projectPath: Temp\UnityTempFile-1d7a0efb05cb9f5409e1377b49e3b802
+  - path: Assets/scenes/LogIn.unity
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/scenes/LogIn.unity
+    projectPath: Assets/scenes/LogIn.unity
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-e74e17f76bca9694ca43654152d417b9
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\UnityTempFile-e74e17f76bca9694ca43654152d417b9
-    projectPath: Temp\UnityTempFile-e74e17f76bca9694ca43654152d417b9
+  - path: Assets/scenes/LogIn.unity.meta
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/scenes/LogIn.unity.meta
+    projectPath: Assets/scenes/LogIn.unity.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\oonoak\shiba\unity_ws\hackason\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
+  - path: Library/EditorInstance.json
+    fullPath: /Users/tomoaki/Humanoid/app/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/00/0000000000000000e100000000000000
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/00/0000000000000000e100000000000000
+    projectPath: Library/metadata/00/0000000000000000e100000000000000
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/00/0000000000000000e100000000000000.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/00/0000000000000000e100000000000000.info
+    projectPath: Library/metadata/00/0000000000000000e100000000000000.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/10/10bf81265ad87424d946598c575f45a0
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/10/10bf81265ad87424d946598c575f45a0
+    projectPath: Library/metadata/10/10bf81265ad87424d946598c575f45a0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/10/10bf81265ad87424d946598c575f45a0.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/10/10bf81265ad87424d946598c575f45a0.info
+    projectPath: Library/metadata/10/10bf81265ad87424d946598c575f45a0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/13/1322fd896bbb15bb6e335591b766ae62
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/13/1322fd896bbb15bb6e335591b766ae62
+    projectPath: Library/metadata/13/1322fd896bbb15bb6e335591b766ae62
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/13/1322fd896bbb15bb6e335591b766ae62.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/13/1322fd896bbb15bb6e335591b766ae62.info
+    projectPath: Library/metadata/13/1322fd896bbb15bb6e335591b766ae62.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/15/15be9c691b85a41a39c18bee2f87e21b
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/15/15be9c691b85a41a39c18bee2f87e21b
+    projectPath: Library/metadata/15/15be9c691b85a41a39c18bee2f87e21b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/15/15be9c691b85a41a39c18bee2f87e21b.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/15/15be9c691b85a41a39c18bee2f87e21b.info
+    projectPath: Library/metadata/15/15be9c691b85a41a39c18bee2f87e21b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5
+    projectPath: Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5.info
+    projectPath: Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/22/220224b43fc464c28bc0e8de8f54a432
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/22/220224b43fc464c28bc0e8de8f54a432
+    projectPath: Library/metadata/22/220224b43fc464c28bc0e8de8f54a432
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/22/220224b43fc464c28bc0e8de8f54a432.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/22/220224b43fc464c28bc0e8de8f54a432.info
+    projectPath: Library/metadata/22/220224b43fc464c28bc0e8de8f54a432.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05
+    projectPath: Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05.info
+    projectPath: Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/2d/2d4d46c70fdd242668a56e99799e8540
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/2d/2d4d46c70fdd242668a56e99799e8540
+    projectPath: Library/metadata/2d/2d4d46c70fdd242668a56e99799e8540
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/2d/2d4d46c70fdd242668a56e99799e8540.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/2d/2d4d46c70fdd242668a56e99799e8540.info
+    projectPath: Library/metadata/2d/2d4d46c70fdd242668a56e99799e8540.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/2e/2eb2d0388ed974b3cba47458803bd275
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/2e/2eb2d0388ed974b3cba47458803bd275
+    projectPath: Library/metadata/2e/2eb2d0388ed974b3cba47458803bd275
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/2e/2eb2d0388ed974b3cba47458803bd275.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/2e/2eb2d0388ed974b3cba47458803bd275.info
+    projectPath: Library/metadata/2e/2eb2d0388ed974b3cba47458803bd275.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/30/30213df1aeb80429db89291c35067370
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/30/30213df1aeb80429db89291c35067370
+    projectPath: Library/metadata/30/30213df1aeb80429db89291c35067370
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/30/30213df1aeb80429db89291c35067370.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/30/30213df1aeb80429db89291c35067370.info
+    projectPath: Library/metadata/30/30213df1aeb80429db89291c35067370.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a
+    projectPath: Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a.info
+    projectPath: Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/3c/3cebe1a96232b44388b30b2f72dde434
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/3c/3cebe1a96232b44388b30b2f72dde434
+    projectPath: Library/metadata/3c/3cebe1a96232b44388b30b2f72dde434
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/3c/3cebe1a96232b44388b30b2f72dde434.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/3c/3cebe1a96232b44388b30b2f72dde434.info
+    projectPath: Library/metadata/3c/3cebe1a96232b44388b30b2f72dde434.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/41/41f7020b554d44f6bbfc3ec3332e65ed
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/41/41f7020b554d44f6bbfc3ec3332e65ed
+    projectPath: Library/metadata/41/41f7020b554d44f6bbfc3ec3332e65ed
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/41/41f7020b554d44f6bbfc3ec3332e65ed.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/41/41f7020b554d44f6bbfc3ec3332e65ed.info
+    projectPath: Library/metadata/41/41f7020b554d44f6bbfc3ec3332e65ed.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/44/44f39a74ca5ee4bf5936b17e901f251c
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/44/44f39a74ca5ee4bf5936b17e901f251c
+    projectPath: Library/metadata/44/44f39a74ca5ee4bf5936b17e901f251c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/44/44f39a74ca5ee4bf5936b17e901f251c.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/44/44f39a74ca5ee4bf5936b17e901f251c.info
+    projectPath: Library/metadata/44/44f39a74ca5ee4bf5936b17e901f251c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/45/453f100e6bdae4dfd9e655927819dc85
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/45/453f100e6bdae4dfd9e655927819dc85
+    projectPath: Library/metadata/45/453f100e6bdae4dfd9e655927819dc85
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/45/453f100e6bdae4dfd9e655927819dc85.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/45/453f100e6bdae4dfd9e655927819dc85.info
+    projectPath: Library/metadata/45/453f100e6bdae4dfd9e655927819dc85.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/48/48986928cc2a449dbaecdd1654bc9bf6
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/48/48986928cc2a449dbaecdd1654bc9bf6
+    projectPath: Library/metadata/48/48986928cc2a449dbaecdd1654bc9bf6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/48/48986928cc2a449dbaecdd1654bc9bf6.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/48/48986928cc2a449dbaecdd1654bc9bf6.info
+    projectPath: Library/metadata/48/48986928cc2a449dbaecdd1654bc9bf6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70
+    projectPath: Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70.info
+    projectPath: Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/4c/4c6fe94acbb24417c988bab18cbd5209
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/4c/4c6fe94acbb24417c988bab18cbd5209
+    projectPath: Library/metadata/4c/4c6fe94acbb24417c988bab18cbd5209
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/4c/4c6fe94acbb24417c988bab18cbd5209.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/4c/4c6fe94acbb24417c988bab18cbd5209.info
+    projectPath: Library/metadata/4c/4c6fe94acbb24417c988bab18cbd5209.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/4f/4f234578336894dc081edf696f2ff5f2
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/4f/4f234578336894dc081edf696f2ff5f2
+    projectPath: Library/metadata/4f/4f234578336894dc081edf696f2ff5f2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/4f/4f234578336894dc081edf696f2ff5f2.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/4f/4f234578336894dc081edf696f2ff5f2.info
+    projectPath: Library/metadata/4f/4f234578336894dc081edf696f2ff5f2.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/51/510d1d319d2754ea4a47c6dd8c421ea0
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/51/510d1d319d2754ea4a47c6dd8c421ea0
+    projectPath: Library/metadata/51/510d1d319d2754ea4a47c6dd8c421ea0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/51/510d1d319d2754ea4a47c6dd8c421ea0.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/51/510d1d319d2754ea4a47c6dd8c421ea0.info
+    projectPath: Library/metadata/51/510d1d319d2754ea4a47c6dd8c421ea0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/53/53f3d62008c9645cbae0e5dbf4651435
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/53/53f3d62008c9645cbae0e5dbf4651435
+    projectPath: Library/metadata/53/53f3d62008c9645cbae0e5dbf4651435
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/53/53f3d62008c9645cbae0e5dbf4651435.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/53/53f3d62008c9645cbae0e5dbf4651435.info
+    projectPath: Library/metadata/53/53f3d62008c9645cbae0e5dbf4651435.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/62/62772aad98ed04f0d955b7d20de61f7f
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/62/62772aad98ed04f0d955b7d20de61f7f
+    projectPath: Library/metadata/62/62772aad98ed04f0d955b7d20de61f7f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/62/62772aad98ed04f0d955b7d20de61f7f.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/62/62772aad98ed04f0d955b7d20de61f7f.info
+    projectPath: Library/metadata/62/62772aad98ed04f0d955b7d20de61f7f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/65/6597c6ea86d36477081342001145d8d9
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/65/6597c6ea86d36477081342001145d8d9
+    projectPath: Library/metadata/65/6597c6ea86d36477081342001145d8d9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/65/6597c6ea86d36477081342001145d8d9.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/65/6597c6ea86d36477081342001145d8d9.info
+    projectPath: Library/metadata/65/6597c6ea86d36477081342001145d8d9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/65/65d58d50c3db54f979b1ffae3777d74b
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/65/65d58d50c3db54f979b1ffae3777d74b
+    projectPath: Library/metadata/65/65d58d50c3db54f979b1ffae3777d74b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/65/65d58d50c3db54f979b1ffae3777d74b.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/65/65d58d50c3db54f979b1ffae3777d74b.info
+    projectPath: Library/metadata/65/65d58d50c3db54f979b1ffae3777d74b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/6e/6e7c8cfeedae74eb3a562055e069e441
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/6e/6e7c8cfeedae74eb3a562055e069e441
+    projectPath: Library/metadata/6e/6e7c8cfeedae74eb3a562055e069e441
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/6e/6e7c8cfeedae74eb3a562055e069e441.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/6e/6e7c8cfeedae74eb3a562055e069e441.info
+    projectPath: Library/metadata/6e/6e7c8cfeedae74eb3a562055e069e441.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/79/7927683d1fc5848b5abfb54ebb1028ec
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/79/7927683d1fc5848b5abfb54ebb1028ec
+    projectPath: Library/metadata/79/7927683d1fc5848b5abfb54ebb1028ec
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/79/7927683d1fc5848b5abfb54ebb1028ec.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/79/7927683d1fc5848b5abfb54ebb1028ec.info
+    projectPath: Library/metadata/79/7927683d1fc5848b5abfb54ebb1028ec.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/7c/7c3a5d6e39b874f468b2691537168513
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/7c/7c3a5d6e39b874f468b2691537168513
+    projectPath: Library/metadata/7c/7c3a5d6e39b874f468b2691537168513
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/7c/7c3a5d6e39b874f468b2691537168513.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/7c/7c3a5d6e39b874f468b2691537168513.info
+    projectPath: Library/metadata/7c/7c3a5d6e39b874f468b2691537168513.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/86/86c008322e7c647149878156c5b81940
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/86/86c008322e7c647149878156c5b81940
+    projectPath: Library/metadata/86/86c008322e7c647149878156c5b81940
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/86/86c008322e7c647149878156c5b81940.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/86/86c008322e7c647149878156c5b81940.info
+    projectPath: Library/metadata/86/86c008322e7c647149878156c5b81940.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/86/86c18994495874297b469aaa57ef9b44
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/86/86c18994495874297b469aaa57ef9b44
+    projectPath: Library/metadata/86/86c18994495874297b469aaa57ef9b44
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/86/86c18994495874297b469aaa57ef9b44.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/86/86c18994495874297b469aaa57ef9b44.info
+    projectPath: Library/metadata/86/86c18994495874297b469aaa57ef9b44.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/90/90791303b72ec4ae198f99d637dfdf6c
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/90/90791303b72ec4ae198f99d637dfdf6c
+    projectPath: Library/metadata/90/90791303b72ec4ae198f99d637dfdf6c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/90/90791303b72ec4ae198f99d637dfdf6c.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/90/90791303b72ec4ae198f99d637dfdf6c.info
+    projectPath: Library/metadata/90/90791303b72ec4ae198f99d637dfdf6c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/99/99ddb49592ff84811804420a1910cb89
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/99/99ddb49592ff84811804420a1910cb89
+    projectPath: Library/metadata/99/99ddb49592ff84811804420a1910cb89
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/99/99ddb49592ff84811804420a1910cb89.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/99/99ddb49592ff84811804420a1910cb89.info
+    projectPath: Library/metadata/99/99ddb49592ff84811804420a1910cb89.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9
+    projectPath: Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9.info
+    projectPath: Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/a3/a342381d77833427fa10621e38fbae10
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/a3/a342381d77833427fa10621e38fbae10
+    projectPath: Library/metadata/a3/a342381d77833427fa10621e38fbae10
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/a3/a342381d77833427fa10621e38fbae10.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/a3/a342381d77833427fa10621e38fbae10.info
+    projectPath: Library/metadata/a3/a342381d77833427fa10621e38fbae10.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/a3/a37e18887fa954edf92bc36bc353b879
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/a3/a37e18887fa954edf92bc36bc353b879
+    projectPath: Library/metadata/a3/a37e18887fa954edf92bc36bc353b879
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/a3/a37e18887fa954edf92bc36bc353b879.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/a3/a37e18887fa954edf92bc36bc353b879.info
+    projectPath: Library/metadata/a3/a37e18887fa954edf92bc36bc353b879.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/a6/a6842a74831964edc8fefa1c0aed89dc
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/a6/a6842a74831964edc8fefa1c0aed89dc
+    projectPath: Library/metadata/a6/a6842a74831964edc8fefa1c0aed89dc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/a6/a6842a74831964edc8fefa1c0aed89dc.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/a6/a6842a74831964edc8fefa1c0aed89dc.info
+    projectPath: Library/metadata/a6/a6842a74831964edc8fefa1c0aed89dc.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47
+    projectPath: Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47.info
+    projectPath: Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/b2/b2c45d5ef8cb04bf199e4226ff4d2a65
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/b2/b2c45d5ef8cb04bf199e4226ff4d2a65
+    projectPath: Library/metadata/b2/b2c45d5ef8cb04bf199e4226ff4d2a65
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/b2/b2c45d5ef8cb04bf199e4226ff4d2a65.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/b2/b2c45d5ef8cb04bf199e4226ff4d2a65.info
+    projectPath: Library/metadata/b2/b2c45d5ef8cb04bf199e4226ff4d2a65.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/b3/b32abd1c9d73a4cce8389f084ac12b11
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/b3/b32abd1c9d73a4cce8389f084ac12b11
+    projectPath: Library/metadata/b3/b32abd1c9d73a4cce8389f084ac12b11
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/b3/b32abd1c9d73a4cce8389f084ac12b11.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/b3/b32abd1c9d73a4cce8389f084ac12b11.info
+    projectPath: Library/metadata/b3/b32abd1c9d73a4cce8389f084ac12b11.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/b5/b52e557db2c2b4eebb10444f1d582029
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/b5/b52e557db2c2b4eebb10444f1d582029
+    projectPath: Library/metadata/b5/b52e557db2c2b4eebb10444f1d582029
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/b5/b52e557db2c2b4eebb10444f1d582029.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/b5/b52e557db2c2b4eebb10444f1d582029.info
+    projectPath: Library/metadata/b5/b52e557db2c2b4eebb10444f1d582029.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/b5/b5da970776034f77a070d99423d68791
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/b5/b5da970776034f77a070d99423d68791
+    projectPath: Library/metadata/b5/b5da970776034f77a070d99423d68791
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/b5/b5da970776034f77a070d99423d68791.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/b5/b5da970776034f77a070d99423d68791.info
+    projectPath: Library/metadata/b5/b5da970776034f77a070d99423d68791.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/b5/b5f4343795a0e4626ac1fe4a9e6fce59
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/b5/b5f4343795a0e4626ac1fe4a9e6fce59
+    projectPath: Library/metadata/b5/b5f4343795a0e4626ac1fe4a9e6fce59
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/b5/b5f4343795a0e4626ac1fe4a9e6fce59.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/b5/b5f4343795a0e4626ac1fe4a9e6fce59.info
+    projectPath: Library/metadata/b5/b5f4343795a0e4626ac1fe4a9e6fce59.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7
+    projectPath: Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7.info
+    projectPath: Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba
+    projectPath: Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba.info
+    projectPath: Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/c5/c5ba7626a737840ff88a3bd84b100482
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/c5/c5ba7626a737840ff88a3bd84b100482
+    projectPath: Library/metadata/c5/c5ba7626a737840ff88a3bd84b100482
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/c5/c5ba7626a737840ff88a3bd84b100482.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/c5/c5ba7626a737840ff88a3bd84b100482.info
+    projectPath: Library/metadata/c5/c5ba7626a737840ff88a3bd84b100482.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288
+    projectPath: Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288.info
+    projectPath: Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/c9/c99bfe4fc4e5c4dc3917c14075acd117
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/c9/c99bfe4fc4e5c4dc3917c14075acd117
+    projectPath: Library/metadata/c9/c99bfe4fc4e5c4dc3917c14075acd117
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/c9/c99bfe4fc4e5c4dc3917c14075acd117.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/c9/c99bfe4fc4e5c4dc3917c14075acd117.info
+    projectPath: Library/metadata/c9/c99bfe4fc4e5c4dc3917c14075acd117.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/cc/cc1b50b5501f748da8bec762294d9136
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/cc/cc1b50b5501f748da8bec762294d9136
+    projectPath: Library/metadata/cc/cc1b50b5501f748da8bec762294d9136
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/cc/cc1b50b5501f748da8bec762294d9136.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/cc/cc1b50b5501f748da8bec762294d9136.info
+    projectPath: Library/metadata/cc/cc1b50b5501f748da8bec762294d9136.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/ce/ce4395ccdb12cf62fca756358be1a892
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/ce/ce4395ccdb12cf62fca756358be1a892
+    projectPath: Library/metadata/ce/ce4395ccdb12cf62fca756358be1a892
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/ce/ce4395ccdb12cf62fca756358be1a892.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/ce/ce4395ccdb12cf62fca756358be1a892.info
+    projectPath: Library/metadata/ce/ce4395ccdb12cf62fca756358be1a892.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/d1/d1c1a2d988f5148fd9ab17b2460d271e
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/d1/d1c1a2d988f5148fd9ab17b2460d271e
+    projectPath: Library/metadata/d1/d1c1a2d988f5148fd9ab17b2460d271e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/d1/d1c1a2d988f5148fd9ab17b2460d271e.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/d1/d1c1a2d988f5148fd9ab17b2460d271e.info
+    projectPath: Library/metadata/d1/d1c1a2d988f5148fd9ab17b2460d271e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626
+    projectPath: Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626.info
+    projectPath: Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/d6/d607a67dc772b484da060e66a3d61a4e
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/d6/d607a67dc772b484da060e66a3d61a4e
+    projectPath: Library/metadata/d6/d607a67dc772b484da060e66a3d61a4e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/d6/d607a67dc772b484da060e66a3d61a4e.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/d6/d607a67dc772b484da060e66a3d61a4e.info
+    projectPath: Library/metadata/d6/d607a67dc772b484da060e66a3d61a4e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/d9/d929147d9f78c487397abb40f2c257b0
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/d9/d929147d9f78c487397abb40f2c257b0
+    projectPath: Library/metadata/d9/d929147d9f78c487397abb40f2c257b0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/d9/d929147d9f78c487397abb40f2c257b0.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/d9/d929147d9f78c487397abb40f2c257b0.info
+    projectPath: Library/metadata/d9/d929147d9f78c487397abb40f2c257b0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/dc/dced8f6ea9f964e8e8e61574ea889d21
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/dc/dced8f6ea9f964e8e8e61574ea889d21
+    projectPath: Library/metadata/dc/dced8f6ea9f964e8e8e61574ea889d21
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/dc/dced8f6ea9f964e8e8e61574ea889d21.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/dc/dced8f6ea9f964e8e8e61574ea889d21.info
+    projectPath: Library/metadata/dc/dced8f6ea9f964e8e8e61574ea889d21.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/e4/e4ebff7d63a6c4ff5a1607a2b786c12d
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/e4/e4ebff7d63a6c4ff5a1607a2b786c12d
+    projectPath: Library/metadata/e4/e4ebff7d63a6c4ff5a1607a2b786c12d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/e4/e4ebff7d63a6c4ff5a1607a2b786c12d.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/e4/e4ebff7d63a6c4ff5a1607a2b786c12d.info
+    projectPath: Library/metadata/e4/e4ebff7d63a6c4ff5a1607a2b786c12d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a
+    projectPath: Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a.info
+    projectPath: Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680
+    projectPath: Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680.info
+    projectPath: Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea
+    projectPath: Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea.info
+    projectPath: Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0
+    projectPath: Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0.info
+    projectPath: Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/f0/f0f8d67297461495185169157c24c66b
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/f0/f0f8d67297461495185169157c24c66b
+    projectPath: Library/metadata/f0/f0f8d67297461495185169157c24c66b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/f0/f0f8d67297461495185169157c24c66b.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/f0/f0f8d67297461495185169157c24c66b.info
+    projectPath: Library/metadata/f0/f0f8d67297461495185169157c24c66b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0
+    projectPath: Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0.info
+    projectPath: Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/f2/f28fcced5af094cf78eb4e1109a71981
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/f2/f28fcced5af094cf78eb4e1109a71981
+    projectPath: Library/metadata/f2/f28fcced5af094cf78eb4e1109a71981
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/f2/f28fcced5af094cf78eb4e1109a71981.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/f2/f28fcced5af094cf78eb4e1109a71981.info
+    projectPath: Library/metadata/f2/f28fcced5af094cf78eb4e1109a71981.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/fe/fec197bad419341558f81f2ec8a05e18
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/fe/fec197bad419341558f81f2ec8a05e18
+    projectPath: Library/metadata/fe/fec197bad419341558f81f2ec8a05e18
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/fe/fec197bad419341558f81f2ec8a05e18.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/fe/fec197bad419341558f81f2ec8a05e18.info
+    projectPath: Library/metadata/fe/fec197bad419341558f81f2ec8a05e18.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityLockfile
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityLockfile
+    projectPath: Temp/UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-68fd40dde698842ba994fc660a95c96a
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-68fd40dde698842ba994fc660a95c96a
+    projectPath: Temp/UnityTempFile-68fd40dde698842ba994fc660a95c96a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
     status: 1
     staged: 0
