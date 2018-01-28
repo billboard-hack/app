@@ -18,6 +18,15 @@ public class socket_test: MonoBehaviour {
 
 	public GameObject yoko_prefab;
 	private bool loggingIn;
+	private bool meThere = true;
+	private bool othersThere = false;
+
+	private bool addMeButton = false;
+	private bool hideMeButton = false;
+	private bool changeMotionButton = false;
+	private bool displayOthersButton = false;
+	private bool hideOthersButton = false;
+	private int buttonNo = 0;
 
 	public int flg;
 	public string pname;
@@ -65,9 +74,8 @@ public class socket_test: MonoBehaviour {
 
 	void Update()
 	{
-
-		if (Input.GetKeyUp("s"))
-		{
+		//addMeボタンによる処理/サーバへのメッセージ送信
+		if (addMeButton){
 			//string send_message = ChangeJson ();
 
 			Person_Data mydata = new Person_Data ();
@@ -78,8 +86,9 @@ public class socket_test: MonoBehaviour {
 			Debug.Log (send_message);
 
 			ws.Send(send_message);
+			addMeButton = false;
 		}
-
+		//サーバからメッセージを受け取ったあとでaddMeを実際に行う
 		if (flg == 1) {
 			if (pname == "Yoko") {
 				UnityEngine.Quaternion appear_rotation = UnityEngine.Quaternion.identity;
@@ -88,6 +97,19 @@ public class socket_test: MonoBehaviour {
 			}
 			flg = 0;
 		}
+
+		//logoutを検知した時
+		if (!loggingIn) {
+			logout ();
+		}
+	}
+
+	void OnGUI(){
+		//Logoutボタンは常に表示
+		if(GUI.Button( new Rect(Screen.width*1/2 + 40, Screen.height*1/4 - 10, 60, 20), "Log Out" ) {
+			loggingInt = false;
+		}
+			if(GUI.Button(new 
 
 	}
 		
@@ -107,6 +129,42 @@ public class socket_test: MonoBehaviour {
 	void logout (){
 		SceneManager.LoadScene ("Login",LoadSceneMode.Single);
 	}
+
+	void drawAddHideMe(){
+		//自分がすでに表示されてるとき
+		//if (meThere) {
+			// ボタンの設置
+			int btnW = 150, btnH = 50;
+			GUI.skin.button.fontSize = 20;
+			addMeButton = GUI.Button( new Rect(Screen.width*1/2 - btnW - 10, Screen.height*3/4 + btnH*1/3, btnW, btnH), "Add Me" );
+			hideMeButton = GUI.Button( new Rect(Screen.width*1/2 + btnW + 10, Screen.height*3/4 + btnH*1/3, btnW, btnH), "Hide Me" );
+		//}
+	}
+
+	void drawChangeMotion(){
+		// ボタンの設置
+		int btnW = 180, btnH = 50;
+		GUI.skin.button.fontSize = 20;
+		changeMotionButton = GUI.Button( new Rect(Screen.width*1/2 - btnW * 1/2, Screen.height*3/4 + btnH*1/3, btnW, btnH), "Change Motion" );
+
+	}
+
+	void showHideOthers(){
+		//他人がすでに表示されてるとき
+		if (othersThere) {
+			// ボタンの設置
+			int btnW = 180, btnH = 50;
+			GUI.skin.button.fontSize = 20;
+			hideOthersButton = GUI.Button (new Rect (Screen.width * 1 / 2 + btnW * 1 / 2, Screen.height * 3 / 4 + btnH * 1 / 3, btnW, btnH), "Hide Others");
+		} else {
+			//他人が表示されていない時
+			int btnW = 180, btnH = 50;
+			GUI.skin.button.fontSize = 20;
+			displayOthersButton = GUI.Button( new Rect(Screen.width*1/2 - btnW * 1/2, Screen.height*3/4 + btnH*1/3, btnW, btnH), "Display others" );
+		}
+	}
+
+
 
 }
 
