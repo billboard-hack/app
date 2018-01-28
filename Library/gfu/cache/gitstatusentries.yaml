@@ -11,21 +11,21 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-28T22:18:51.4316080+09:00
-  lastVerifiedAtString: 2018-01-28T22:26:02.5173580+09:00
+  lastUpdatedAtString: 2018-01-29T00:39:18.0172100+09:00
+  lastVerifiedAtString: 2018-01-29T00:39:19.0088660+09:00
   initializedAtString: 2018-01-28T17:09:41.7924720+09:00
   entries:
-  - path: Assets/Materials/No Name.mat
-    fullPath: /Users/tomoaki/Humanoid/app/Assets/Materials/No Name.mat
-    projectPath: Assets/Materials/No Name.mat
+  - path: Assets/Materials/Kari_white.mat
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/Materials/Kari_white.mat
+    projectPath: Assets/Materials/Kari_white.mat
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
-  - path: Assets/Materials/No Name.mat.meta
-    fullPath: /Users/tomoaki/Humanoid/app/Assets/Materials/No Name.mat.meta
-    projectPath: Assets/Materials/No Name.mat.meta
+  - path: Assets/Scripts/socket_test.cs
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/Scripts/socket_test.cs
+    projectPath: Assets/Scripts/socket_test.cs
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
   - path: Assets/scenes/test.unity
     fullPath: /Users/tomoaki/Humanoid/app/Assets/scenes/test.unity
@@ -33,15 +33,21 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/CrashedAssetImports.txt
-    fullPath: /Users/tomoaki/Humanoid/app/Library/CrashedAssetImports.txt
-    projectPath: Library/CrashedAssetImports.txt
-    originalPath: 
-    status: 5
-    staged: 0
   - path: Library/InspectorExpandedItems.asset
     fullPath: /Users/tomoaki/Humanoid/app/Library/InspectorExpandedItems.asset
     projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
     originalPath: 
     status: 3
     staged: 0
@@ -81,15 +87,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/metadata/0d/0d6cf0ef88db44bb1b2a3a6a172e179e
-    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/0d/0d6cf0ef88db44bb1b2a3a6a172e179e
-    projectPath: Library/metadata/0d/0d6cf0ef88db44bb1b2a3a6a172e179e
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library/metadata/0d/0d6cf0ef88db44bb1b2a3a6a172e179e.info
     fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/0d/0d6cf0ef88db44bb1b2a3a6a172e179e.info
     projectPath: Library/metadata/0d/0d6cf0ef88db44bb1b2a3a6a172e179e.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/69/69d40163cacd0fc429a84dcf0ed2502e
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/69/69d40163cacd0fc429a84dcf0ed2502e
+    projectPath: Library/metadata/69/69d40163cacd0fc429a84dcf0ed2502e
     originalPath: 
     status: 3
     staged: 0
@@ -105,39 +111,87 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets/Materials/Kari_white.mat
-    fullPath: /Users/tomoaki/Humanoid/app/Assets/Materials/Kari_white.mat
-    projectPath: Assets/Materials/Kari_white.mat
+  - path: Temp/UnityTempFile-10357a29043ab493a9d4208c15c3ed5c
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-10357a29043ab493a9d4208c15c3ed5c
+    projectPath: Temp/UnityTempFile-10357a29043ab493a9d4208c15c3ed5c
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets/Materials/Kari_white.mat.meta
-    fullPath: /Users/tomoaki/Humanoid/app/Assets/Materials/Kari_white.mat.meta
-    projectPath: Assets/Materials/Kari_white.mat.meta
+  - path: Temp/UnityTempFile-3e221b2fc92dc44a88f91fe2c15ceabc
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-3e221b2fc92dc44a88f91fe2c15ceabc
+    projectPath: Temp/UnityTempFile-3e221b2fc92dc44a88f91fe2c15ceabc
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets/Prefabs/kari_white1.prefab
-    fullPath: /Users/tomoaki/Humanoid/app/Assets/Prefabs/kari_white1.prefab
-    projectPath: Assets/Prefabs/kari_white1.prefab
+  - path: Temp/UnityTempFile-475d4bf4de38d40a7adbab42357de3be
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-475d4bf4de38d40a7adbab42357de3be
+    projectPath: Temp/UnityTempFile-475d4bf4de38d40a7adbab42357de3be
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets/Prefabs/kari_white1.prefab.meta
-    fullPath: /Users/tomoaki/Humanoid/app/Assets/Prefabs/kari_white1.prefab.meta
-    projectPath: Assets/Prefabs/kari_white1.prefab.meta
+  - path: Temp/UnityTempFile-477be511fbbe143d2b86e475296e08be
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-477be511fbbe143d2b86e475296e08be
+    projectPath: Temp/UnityTempFile-477be511fbbe143d2b86e475296e08be
     originalPath: 
     status: 1
     staged: 0
-  - path: Library/metadata/99/991293538efc24a4a9e0e612c7720bd7
-    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/99/991293538efc24a4a9e0e612c7720bd7
-    projectPath: Library/metadata/99/991293538efc24a4a9e0e612c7720bd7
+  - path: Temp/UnityTempFile-4cb05e4ccbf6949eebb626e31c2db3cb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-4cb05e4ccbf6949eebb626e31c2db3cb
+    projectPath: Temp/UnityTempFile-4cb05e4ccbf6949eebb626e31c2db3cb
     originalPath: 
     status: 1
     staged: 0
-  - path: Library/metadata/99/991293538efc24a4a9e0e612c7720bd7.info
-    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/99/991293538efc24a4a9e0e612c7720bd7.info
-    projectPath: Library/metadata/99/991293538efc24a4a9e0e612c7720bd7.info
+  - path: Temp/UnityTempFile-62d93bc2ca8e54c52ace75b44f9a5289
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-62d93bc2ca8e54c52ace75b44f9a5289
+    projectPath: Temp/UnityTempFile-62d93bc2ca8e54c52ace75b44f9a5289
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-7a2d4a778403d4d81b9116d757d11828
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-7a2d4a778403d4d81b9116d757d11828
+    projectPath: Temp/UnityTempFile-7a2d4a778403d4d81b9116d757d11828
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-7fb391e7bdef441feaf88217afb969a3
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-7fb391e7bdef441feaf88217afb969a3
+    projectPath: Temp/UnityTempFile-7fb391e7bdef441feaf88217afb969a3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-836c0eb0f31974d10b417ffad0388501
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-836c0eb0f31974d10b417ffad0388501
+    projectPath: Temp/UnityTempFile-836c0eb0f31974d10b417ffad0388501
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-927bec8307d0844e7aa7d7379dc9ab13
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-927bec8307d0844e7aa7d7379dc9ab13
+    projectPath: Temp/UnityTempFile-927bec8307d0844e7aa7d7379dc9ab13
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-a3ffc3abae4b743469f0153a529ccdd0
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-a3ffc3abae4b743469f0153a529ccdd0
+    projectPath: Temp/UnityTempFile-a3ffc3abae4b743469f0153a529ccdd0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-d2b2316dd349b4700b0339f520af37d9
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-d2b2316dd349b4700b0339f520af37d9
+    projectPath: Temp/UnityTempFile-d2b2316dd349b4700b0339f520af37d9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-ecc63d61f89734d35b1a908e3fab6ade
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-ecc63d61f89734d35b1a908e3fab6ade
+    projectPath: Temp/UnityTempFile-ecc63d61f89734d35b1a908e3fab6ade
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-f9e31f4a7f2544aeab151b3a5a8a7208
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-f9e31f4a7f2544aeab151b3a5a8a7208
+    projectPath: Temp/UnityTempFile-f9e31f4a7f2544aeab151b3a5a8a7208
     originalPath: 
     status: 1
     staged: 0

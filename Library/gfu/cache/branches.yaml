@@ -11,8 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-28T22:09:56.7436420+09:00
-  lastVerifiedAtString: 2018-01-28T22:09:56.7602640+09:00
+  lastUpdatedAtString: 2018-01-29T00:38:05.8310760+09:00
+  lastVerifiedAtString: 2018-01-29T00:38:05.8447440+09:00
   initializedAtString: 2018-01-28T17:09:40.2550330+09:00
   gitConfigBranch:
     name: AllButtons

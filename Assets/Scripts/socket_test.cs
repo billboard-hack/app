@@ -17,7 +17,7 @@ public class socket_test: MonoBehaviour {
 	WebSocket ws;
 
 	public GameObject yoko_prefab;
-	private bool loggingIn;
+	private bool loggingIn= true;
 	private bool meThere = true;
 	private bool othersThere = false;
 
@@ -35,11 +35,11 @@ public class socket_test: MonoBehaviour {
 	{
 		flg = 0;
 		//Login状態をかくにん
-		if (!UserAuth.getUserId ().IsNullOrEmpty) {
+		/*if (UserAuth.getUserId().IsNullOrEmpty() == false) {
 			loggingIn = true;
 		} else {
 			loggingIn = false;
-		}
+		}*/
 
 		if (loggingIn) {
 			ws = new WebSocket ("ws://localhost:8080/ws");
@@ -106,10 +106,46 @@ public class socket_test: MonoBehaviour {
 
 	void OnGUI(){
 		//Logoutボタンは常に表示
-		if(GUI.Button( new Rect(Screen.width*1/2 + 40, Screen.height*1/4 - 10, 60, 20), "Log Out" ) {
-			loggingInt = false;
+		if(GUI.Button( new Rect(Screen.width*3/4, Screen.height*1/4 - 50, 100, 35), "Log Out" )) {
+			loggingIn = false;
 		}
-			if(GUI.Button(new 
+			if(GUI.Button(new Rect(Screen.width - 70, Screen.height*3/4 + 10, 60, 40), "Next")){
+				if(buttonNo >= 2){
+				buttonNo =  0;
+				}else{
+					buttonNo = buttonNo+1;
+				}
+			}
+
+			if(GUI.Button(new Rect(10, Screen.height*3/4 + 10, 60, 40), "Back")){
+				if(buttonNo <= 0 ){
+					buttonNo =  2;
+				}else{
+					buttonNo = buttonNo-1;
+				}
+			}
+		if (displayOthersButton) {
+			othersThere = true;
+			displayOthersButton = false;
+		}
+		if (hideOthersButton) {
+			othersThere = false;
+			hideOthersButton = false;
+		}
+
+			switch(buttonNo){
+		case 0:
+			drawAddHideMe ();
+			break;
+
+		case 1:
+			drawChangeMotion ();
+			break;
+
+		case 2:
+			showHideOthers ();
+			break;
+			}
 
 	}
 		
@@ -134,10 +170,10 @@ public class socket_test: MonoBehaviour {
 		//自分がすでに表示されてるとき
 		//if (meThere) {
 			// ボタンの設置
-			int btnW = 150, btnH = 50;
+			int btnW = 120, btnH = 50;
 			GUI.skin.button.fontSize = 20;
-			addMeButton = GUI.Button( new Rect(Screen.width*1/2 - btnW - 10, Screen.height*3/4 + btnH*1/3, btnW, btnH), "Add Me" );
-			hideMeButton = GUI.Button( new Rect(Screen.width*1/2 + btnW + 10, Screen.height*3/4 + btnH*1/3, btnW, btnH), "Hide Me" );
+			addMeButton = GUI.Button( new Rect(Screen.width *1/2 - btnW -10, Screen.height*3/4 + btnH*1/3, btnW, btnH), "Add Me" );
+			hideMeButton = GUI.Button( new Rect(Screen.width*1/2+10, Screen.height*3/4 + btnH*1/3, btnW, btnH), "Hide Me" );
 		//}
 	}
 
@@ -155,7 +191,7 @@ public class socket_test: MonoBehaviour {
 			// ボタンの設置
 			int btnW = 180, btnH = 50;
 			GUI.skin.button.fontSize = 20;
-			hideOthersButton = GUI.Button (new Rect (Screen.width * 1 / 2 + btnW * 1 / 2, Screen.height * 3 / 4 + btnH * 1 / 3, btnW, btnH), "Hide Others");
+			hideOthersButton = GUI.Button (new Rect (Screen.width * 1 / 2 - btnW * 1 / 2, Screen.height * 3 / 4 + btnH * 1 / 3, btnW, btnH), "Hide Others");
 		} else {
 			//他人が表示されていない時
 			int btnW = 180, btnH = 50;

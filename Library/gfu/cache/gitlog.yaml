@@ -11,10 +11,154 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-28T22:09:57.3960990+09:00
-  lastVerifiedAtString: 2018-01-28T22:09:57.3960990+09:00
+  lastUpdatedAtString: 2018-01-29T00:38:06.2198350+09:00
+  lastVerifiedAtString: 2018-01-29T00:38:06.2198350+09:00
   initializedAtString: 2018-01-28T17:09:40.2881370+09:00
   log:
+  - commitID: 095cb08298234409efbc020fb11068e0982105fe
+    mergeA: 
+    mergeB: 
+    authorName: Tomoaki-Tsuchiya
+    authorEmail: tomt0m.25.g00cl@gmail.com
+    commitEmail: tomt0m.25.g00cl@gmail.com
+    commitName: Tomoaki-Tsuchiya
+    summary: buttons script
+    description: buttons script
+    timeString: 2018-01-28T23:31:12.0000000+09:00
+    commitTimeString: 2018-01-28T23:31:12.0000000+09:00
+    changes:
+    - path: Assets/Scripts/socket_test.cs
+      fullPath: /Users/tomoaki/Humanoid/app/Assets/Scripts/socket_test.cs
+      projectPath: Assets/Scripts/socket_test.cs
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 51da11f30aefc32101c528304301c4d959fc4119
+    mergeA: 
+    mergeB: 
+    authorName: Tomoaki-Tsuchiya
+    authorEmail: tomt0m.25.g00cl@gmail.com
+    commitEmail: tomt0m.25.g00cl@gmail.com
+    commitName: Tomoaki-Tsuchiya
+    summary: To save progress
+    description: To save progress
+    timeString: 2018-01-28T22:49:01.0000000+09:00
+    commitTimeString: 2018-01-28T22:49:01.0000000+09:00
+    changes:
+    - path: "Name.mat\tAssets/Materials/Kari_white.mat"
+      fullPath: "/Users/tomoaki/Humanoid/app/Name.mat\tAssets/Materials/Kari_white.mat"
+      projectPath: "Name.mat\tAssets/Materials/Kari_white.mat"
+      originalPath: Assets/Materials/No
+      status: 6
+      staged: 0
+    - path: "Name.mat.meta\tAssets/Materials/Kari_white.mat.meta"
+      fullPath: "/Users/tomoaki/Humanoid/app/Name.mat.meta\tAssets/Materials/Kari_white.mat.meta"
+      projectPath: "Name.mat.meta\tAssets/Materials/Kari_white.mat.meta"
+      originalPath: Assets/Materials/No
+      status: 6
+      staged: 0
+    - path: Assets/Prefabs/kari_white1.prefab
+      fullPath: /Users/tomoaki/Humanoid/app/Assets/Prefabs/kari_white1.prefab
+      projectPath: Assets/Prefabs/kari_white1.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Prefabs/kari_white1.prefab.meta
+      fullPath: /Users/tomoaki/Humanoid/app/Assets/Prefabs/kari_white1.prefab.meta
+      projectPath: Assets/Prefabs/kari_white1.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/socket_test.cs
+      fullPath: /Users/tomoaki/Humanoid/app/Assets/Scripts/socket_test.cs
+      projectPath: Assets/Scripts/socket_test.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets/scenes/test.unity
+      fullPath: /Users/tomoaki/Humanoid/app/Assets/scenes/test.unity
+      projectPath: Assets/scenes/test.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/CrashedAssetImports.txt
+      fullPath: /Users/tomoaki/Humanoid/app/Library/CrashedAssetImports.txt
+      projectPath: Library/CrashedAssetImports.txt
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library/InspectorExpandedItems.asset
+      fullPath: /Users/tomoaki/Humanoid/app/Library/InspectorExpandedItems.asset
+      projectPath: Library/InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/assetDatabase3
+      fullPath: /Users/tomoaki/Humanoid/app/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gituser.yaml
+      fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/gituser.yaml
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/0d/0d6cf0ef88db44bb1b2a3a6a172e179e
+      fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/0d/0d6cf0ef88db44bb1b2a3a6a172e179e
+      projectPath: Library/metadata/0d/0d6cf0ef88db44bb1b2a3a6a172e179e
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/0d/0d6cf0ef88db44bb1b2a3a6a172e179e.info
+      fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/0d/0d6cf0ef88db44bb1b2a3a6a172e179e.info
+      projectPath: Library/metadata/0d/0d6cf0ef88db44bb1b2a3a6a172e179e.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/99/991293538efc24a4a9e0e612c7720bd7
+      fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/99/991293538efc24a4a9e0e612c7720bd7
+      projectPath: Library/metadata/99/991293538efc24a4a9e0e612c7720bd7
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/99/991293538efc24a4a9e0e612c7720bd7.info
+      fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/99/991293538efc24a4a9e0e612c7720bd7.info
+      projectPath: Library/metadata/99/991293538efc24a4a9e0e612c7720bd7.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp/__Backupscenes/0.backup
+      fullPath: /Users/tomoaki/Humanoid/app/Temp/__Backupscenes/0.backup
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 01b9610ab1be5cf82bfe61966cc0abc01306f5fb
     mergeA: 
     mergeB: 
