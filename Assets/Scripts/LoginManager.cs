@@ -110,8 +110,8 @@ public class LoginManager : MonoBehaviour {
 		// テキストボックスの設置と入力値の取得
 		GUI.skin.textField.fontSize = 20;
 		int txtW = 150, txtH = 40;
-		id = GUI.TextField     (new Rect(Screen.width*1/2 - txtW* 1/8, Screen.height*1/3 + txtH, txtW, txtH), id);
-		pw = GUI.PasswordField (new Rect(Screen.width*1/2 - txtW * 1/8, Screen.height*1/2 + txtH, txtW, txtH), pw, '*');
+		id = GUI.TextField     (new Rect(Screen.width*1/2 - txtW* 1/8, Screen.height*2/5+ txtH, txtW, txtH), id);
+		pw = GUI.PasswordField (new Rect(Screen.width*1/2 - txtW * 1/8, Screen.height*4/7 + txtH, txtW, txtH), pw, '*');
 
 		// ボタンの設置
 		int btnW = 180, btnH = 50;
