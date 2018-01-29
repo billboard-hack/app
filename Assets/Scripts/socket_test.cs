@@ -12,6 +12,7 @@ public class socket_test: MonoBehaviour {
 	[System.Serializable]
 	public class Person_Data{
 		public string Name, Message;
+		public string type,password,other;
 	}
 
 	WebSocket ws;
@@ -21,6 +22,8 @@ public class socket_test: MonoBehaviour {
 	private bool loggingIn;
 	private bool meThere = true;
 	private bool othersThere = false;
+	private int myNo = 0;
+	private string otherName;
 
 	private bool addMeButton = false;
 	private bool hideMeButton = false;
@@ -59,8 +62,14 @@ public class socket_test: MonoBehaviour {
 				Person_Data recieve_message = new Person_Data ();
 				recieve_message = JsonUtility.FromJson<Person_Data> (e.Data);
 				//Debug.Log(recieve_message.Name);
-				pname = recieve_message.Name;
-				flg = 1;
+				if (recieve_message.type == "otherlogin") {
+					flg = 2;
+					otherName = recieve_message.other;
+				} else {
+					flg = 1;
+					pname = recieve_message.Name;
+				}
+
 			};
 
 			ws.OnError += (sender, e) => {
@@ -93,16 +102,53 @@ public class socket_test: MonoBehaviour {
 
 			ws.Send(send_message);
 			addMeButton = false;
-		}
+		} 
 		//サーバからメッセージを受け取ったあとでaddMeを実際に行う
 		if (flg == 1) {
 			if (pname == "Yoko") {
 				UnityEngine.Quaternion appear_rotation = UnityEngine.Quaternion.identity;
 				Debug.Log ("prefab:" + personName);
 				figure = (GameObject)Resources.Load ("Prefabs/" + personName);
-				Instantiate (figure, new Vector3 (UnityEngine.Random.Range (-2.0f, 2.0f), 1.5f, -1.5f), appear_rotation);
+				var figureNo = Instantiate (figure, new Vector3 (UnityEngine.Random.Range (-2.0f, 2.0f), 1.5f, -1.5f), appear_rotation);
+				figureNo.name = figureNo.name.Replace("(Clone)", myNo.ToString());
+				myNo++;
 			} 
 			flg = 0;
+		}
+		if (flg == 2) {//違う人が入ってきた
+			UnityEngine.Quaternion appear_rotation = UnityEngine.Quaternion.identity;
+			Debug.Log ("prefab:" + otherName);
+			figure = (GameObject)Resources.Load ("Prefabs/" + otherName);
+			var figureNo = Instantiate (figure, new Vector3 (UnityEngine.Random.Range (-2.0f, 2.0f), 1.5f, -1.5f), appear_rotation);
+		}
+		//hideMeButtonが押されたとき
+		if (hideMeButton) {
+			if (myNo > 0) {
+				GameObject me = GameObject.Find (personName + (myNo-1).ToString());
+				Destroy (me);
+				myNo--;
+			}
+		}
+
+		//"l"ボタン押下で他の人がログインしてくる
+		if (Input.GetKeyUp ("l")) {
+			Person_Data newGuy = new Person_Data ();
+			if (personName == "tomo") {
+				newGuy.type = "otherlogin";
+				newGuy.other = "shiba";
+				newGuy.password = "shiba";
+				string send_message = JsonUtility.ToJson (newGuy);
+				Debug.Log ("shiba just logged in!");
+				Debug.Log (send_message);
+				ws.Send (send_message);
+			} else {
+				newGuy.type = "otherlogin";
+				newGuy.other = "tomo";
+				newGuy.password = "tomo";
+				string send_message = JsonUtility.ToJson (newGuy);
+				Debug.Log ("tomo just logged in!");
+				ws.Send (send_message);
+			}
 		}
 
 		//logoutを検知した時
@@ -115,7 +161,7 @@ public class socket_test: MonoBehaviour {
 		//Logoutボタンは常に表示
 		if(GUI.Button( new Rect(Screen.width*3/4, Screen.height*1/4 - 50, 100, 35), "Log Out" )) {
 			loggingIn = false;
-		}
+		}//Next, Backボタン
 			if(GUI.Button(new Rect(Screen.width - 70, Screen.height*3/4 + 10, 60, 40), "Next")){
 				if(buttonNo >= 2){
 				buttonNo =  0;

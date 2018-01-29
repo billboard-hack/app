@@ -51,7 +51,7 @@ public class LoginManager : MonoBehaviour {
 			Debug.Log(e.Data);
 			LoginData recieve_message = new LoginData ();
 			recieve_message = JsonUtility.FromJson<LoginData>(e.Data);
-			if(recieve_message.Name =="tomo" && recieve_message.Message == "tomo"){
+			if((recieve_message.Name =="tomo" && recieve_message.Message == "tomo")||(recieve_message.Name =="shiba" && recieve_message.Message == "shiba")){
 				Debug.Log("Login:succeeded");
 				UserAuth.setUserId(recieve_message.Name);
 				Debug.Log("LoginUser:" + UserAuth.getUserId());
