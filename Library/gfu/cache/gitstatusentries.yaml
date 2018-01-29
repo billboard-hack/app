@@ -11,19 +11,103 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-29T00:48:45.9240990+09:00
-  lastVerifiedAtString: 2018-01-29T00:48:48.9557730+09:00
-  initializedAtString: 2018-01-28T17:09:41.7924720+09:00
+  lastUpdatedAtString: 2018-01-30T01:05:29.9521960+09:00
+  lastVerifiedAtString: 2018-01-30T01:05:45.1017830+09:00
+  initializedAtString: 2018-01-30T01:05:29.9521960+09:00
   entries:
+  - path: Assets/.DS_Store
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/.DS_Store
+    projectPath: Assets/.DS_Store
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Materials/Kari_white.mat
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/Materials/Kari_white.mat
+    projectPath: Assets/Materials/Kari_white.mat
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Prefabs.meta
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/Prefabs.meta
+    projectPath: Assets/Prefabs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/Prefabs/kari_white1.prefab
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/Prefabs/kari_white1.prefab
+    projectPath: Assets/Prefabs/kari_white1.prefab
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/Prefabs/kari_white1.prefab.meta
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/Prefabs/kari_white1.prefab.meta
+    projectPath: Assets/Prefabs/kari_white1.prefab.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/Prefabs/yoko.prefab
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/Prefabs/yoko.prefab
+    projectPath: Assets/Prefabs/yoko.prefab
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/Prefabs/yoko.prefab.meta
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/Prefabs/yoko.prefab.meta
+    projectPath: Assets/Prefabs/yoko.prefab.meta
+    originalPath: 
+    status: 5
+    staged: 0
   - path: Assets/Scripts/LoginManager.cs
     fullPath: /Users/tomoaki/Humanoid/app/Assets/Scripts/LoginManager.cs
     projectPath: Assets/Scripts/LoginManager.cs
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets/scenes/LogIn.unity
-    fullPath: /Users/tomoaki/Humanoid/app/Assets/scenes/LogIn.unity
-    projectPath: Assets/scenes/LogIn.unity
+  - path: Assets/Scripts/socket_test.cs
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/Scripts/socket_test.cs
+    projectPath: Assets/Scripts/socket_test.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/yoko/tsuchi.jpg
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/yoko/tsuchi.jpg
+    projectPath: Assets/yoko/tsuchi.jpg
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/yoko/tsuchi.jpg.meta
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/yoko/tsuchi.jpg.meta
+    projectPath: Assets/yoko/tsuchi.jpg.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/CurrentLayout.dwlt
+    fullPath: /Users/tomoaki/Humanoid/app/Library/CurrentLayout.dwlt
+    projectPath: Library/CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/EditorInstance.json
+    fullPath: /Users/tomoaki/Humanoid/app/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/InspectorExpandedItems.asset
+    fullPath: /Users/tomoaki/Humanoid/app/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/LastSceneManagerSetup.txt
+    fullPath: /Users/tomoaki/Humanoid/app/Library/LastSceneManagerSetup.txt
+    projectPath: Library/LastSceneManagerSetup.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/ProjectSettings.asset
+    fullPath: /Users/tomoaki/Humanoid/app/Library/ProjectSettings.asset
+    projectPath: Library/ProjectSettings.asset
     originalPath: 
     status: 3
     staged: 0
@@ -45,9 +129,21 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Library/expandedItems
+    fullPath: /Users/tomoaki/Humanoid/app/Library/expandedItems
+    projectPath: Library/expandedItems
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/tomoaki/Humanoid/app/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -75,17 +171,1710 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Library/metadata/03/030ae3e28cdae40fb99203295a40bdbb
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/03/030ae3e28cdae40fb99203295a40bdbb
+    projectPath: Library/metadata/03/030ae3e28cdae40fb99203295a40bdbb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/03/030ae3e28cdae40fb99203295a40bdbb.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/03/030ae3e28cdae40fb99203295a40bdbb.info
+    projectPath: Library/metadata/03/030ae3e28cdae40fb99203295a40bdbb.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/0d/0d6cf0ef88db44bb1b2a3a6a172e179e.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/0d/0d6cf0ef88db44bb1b2a3a6a172e179e.info
+    projectPath: Library/metadata/0d/0d6cf0ef88db44bb1b2a3a6a172e179e.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/2f/2fe3476eabbbb6c448e6b55a2cc471f5.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/2f/2fe3476eabbbb6c448e6b55a2cc471f5.info
+    projectPath: Library/metadata/2f/2fe3476eabbbb6c448e6b55a2cc471f5.info
+    originalPath: 
+    status: 5
+    staged: 0
   - path: Library/metadata/41/41f7020b554d44f6bbfc3ec3332e65ed
     fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/41/41f7020b554d44f6bbfc3ec3332e65ed
     projectPath: Library/metadata/41/41f7020b554d44f6bbfc3ec3332e65ed
     originalPath: 
     status: 3
     staged: 0
+  - path: Library/metadata/49/49f5766d0d4954f44b85d4bbd7131677.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/49/49f5766d0d4954f44b85d4bbd7131677.info
+    projectPath: Library/metadata/49/49f5766d0d4954f44b85d4bbd7131677.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/69/6981461fe431401459211818212a29cf.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/69/6981461fe431401459211818212a29cf.info
+    projectPath: Library/metadata/69/6981461fe431401459211818212a29cf.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/69/69d40163cacd0fc429a84dcf0ed2502e
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/69/69d40163cacd0fc429a84dcf0ed2502e
+    projectPath: Library/metadata/69/69d40163cacd0fc429a84dcf0ed2502e
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef.info
+    projectPath: Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/83/8382b2bb260241859771b69b7f377a8d.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/83/8382b2bb260241859771b69b7f377a8d.info
+    projectPath: Library/metadata/83/8382b2bb260241859771b69b7f377a8d.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/84/84ca94c19f25ae14d83aa41bb3654390.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/84/84ca94c19f25ae14d83aa41bb3654390.info
+    projectPath: Library/metadata/84/84ca94c19f25ae14d83aa41bb3654390.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/85/852e56802eb941638acbb491814497b0.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/85/852e56802eb941638acbb491814497b0.info
+    projectPath: Library/metadata/85/852e56802eb941638acbb491814497b0.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/86/86f4de9468454445ac2f39e207fafa3a.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/86/86f4de9468454445ac2f39e207fafa3a.info
+    projectPath: Library/metadata/86/86f4de9468454445ac2f39e207fafa3a.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44.info
+    projectPath: Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead.info
+    projectPath: Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/99/991293538efc24a4a9e0e612c7720bd7
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/99/991293538efc24a4a9e0e612c7720bd7
+    projectPath: Library/metadata/99/991293538efc24a4a9e0e612c7720bd7
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/d0/d05b96cee66e14240838de167097537a.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/d0/d05b96cee66e14240838de167097537a.info
+    projectPath: Library/metadata/d0/d05b96cee66e14240838de167097537a.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/ea/eadad3f08fcf16041b1907d97df070fe
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/ea/eadad3f08fcf16041b1907d97df070fe
+    projectPath: Library/metadata/ea/eadad3f08fcf16041b1907d97df070fe
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/fb/fb652ba33bc8cc34d8cba7be28771539
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/fb/fb652ba33bc8cc34d8cba7be28771539
+    projectPath: Library/metadata/fb/fb652ba33bc8cc34d8cba7be28771539
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/tomoaki/Humanoid/app/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Users/tomoaki/Humanoid/app/Library/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Users/tomoaki/Humanoid/app/Library/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/shadercompiler-UnityShaderCompiler3.log
+    fullPath: /Users/tomoaki/Humanoid/app/Library/shadercompiler-UnityShaderCompiler3.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler3.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libMonoPosixHelper.dylib
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libMonoPosixHelper.dylib
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libMonoPosixHelper.dylib
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libmono.0.dylib
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libmono.0.dylib
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Frameworks/Mono/MonoEmbedRuntime/osx/libmono.0.dylib
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Info.plist
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Info.plist
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Info.plist
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/MacOS/Enjoin
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/MacOS/Enjoin
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/MacOS/Enjoin
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/1.0/machine.config
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/1.0/machine.config
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/1.0/machine.config
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/2.0/Browsers/Compat.browser
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/2.0/Browsers/Compat.browser
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/2.0/Browsers/Compat.browser
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/2.0/machine.config
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/2.0/machine.config
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/2.0/machine.config
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/2.0/settings.map
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/2.0/settings.map
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/2.0/settings.map
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/2.0/web.config
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/2.0/web.config
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/2.0/web.config
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/browscap.ini
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/browscap.ini
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/browscap.ini
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/config
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/config
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/config
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/mconfig/config.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/mconfig/config.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Mono/etc/mono/mconfig/config.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/config
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/config
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/config
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Ageia.tif
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Ageia.tif
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Ageia.tif
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/Mono.Security.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/Mono.Security.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/Mono.Security.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/SimpleJson.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/SimpleJson.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/SimpleJson.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/SocketIO.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/SocketIO.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/SocketIO.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/SuperSocket.ClientEngine.Common.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/SuperSocket.ClientEngine.Common.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/SuperSocket.ClientEngine.Common.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/SuperSocket.ClientEngine.Core.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/SuperSocket.ClientEngine.Core.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/SuperSocket.ClientEngine.Core.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/SuperSocket.ClientEngine.Protocol.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/SuperSocket.ClientEngine.Protocol.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/SuperSocket.ClientEngine.Protocol.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/SuperSocket.ClientEngine.Proxy.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/SuperSocket.ClientEngine.Proxy.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/SuperSocket.ClientEngine.Proxy.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/System.Core.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/System.Core.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/System.Core.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/System.Xml.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/System.Xml.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/System.Xml.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/System.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/System.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/System.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.Analytics.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.Analytics.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.Analytics.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.Networking.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.Networking.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.Networking.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.Timeline.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.Timeline.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.Timeline.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.dll.mdb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.dll.mdb
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.xml
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.xml
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/UnityEngine.xml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/WebSocket4Net.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/WebSocket4Net.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/WebSocket4Net.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/mscorlib.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/mscorlib.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/mscorlib.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/websocket-sharp.dll
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/websocket-sharp.dll
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Managed/websocket-sharp.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Resources/unity_builtin_extra
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Resources/unity_builtin_extra
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/Resources/unity_builtin_extra
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/boot.config
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/boot.config
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/boot.config
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/globalgamemanagers
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/globalgamemanagers
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/globalgamemanagers
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/globalgamemanagers.assets
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/globalgamemanagers.assets
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/globalgamemanagers.assets
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/level0
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/level0
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/level0
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/level0.resS
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/level0.resS
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/level0.resS
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/level1
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/level1
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/level1
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/sharedassets0.assets
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/sharedassets0.assets
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/sharedassets0.assets
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/sharedassets0.assets.resS
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/sharedassets0.assets.resS
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/sharedassets0.assets.resS
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/sharedassets1.assets
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Data/sharedassets1.assets
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Data/sharedassets1.assets
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/DefaultPreferences.plist
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/DefaultPreferences.plist
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/DefaultPreferences.plist
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/KeyConfig.nib/classes.nib
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/KeyConfig.nib/classes.nib
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/KeyConfig.nib/classes.nib
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/KeyConfig.nib/info.nib
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/KeyConfig.nib/info.nib
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/KeyConfig.nib/info.nib
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/KeyConfig.nib/keyedobjects.nib
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/KeyConfig.nib/keyedobjects.nib
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/KeyConfig.nib/keyedobjects.nib
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/MainMenu.nib/classes.nib
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/MainMenu.nib/classes.nib
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/MainMenu.nib/classes.nib
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/MainMenu.nib/info.nib
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/MainMenu.nib/info.nib
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/MainMenu.nib/info.nib
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/MainMenu.nib/keyedobjects.nib
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/MainMenu.nib/keyedobjects.nib
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/MainMenu.nib/keyedobjects.nib
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/Mono.tif
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/Mono.tif
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/Mono.tif
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/ScreenSelector.nib/classes.nib
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/ScreenSelector.nib/classes.nib
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/ScreenSelector.nib/classes.nib
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/ScreenSelector.nib/designable.nib
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/ScreenSelector.nib/designable.nib
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/ScreenSelector.nib/designable.nib
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/ScreenSelector.nib/info.nib
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/ScreenSelector.nib/info.nib
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/ScreenSelector.nib/info.nib
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/ScreenSelector.nib/keyedobjects.nib
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/ScreenSelector.nib/keyedobjects.nib
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/ScreenSelector.nib/keyedobjects.nib
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/UnityPlayerIcon.png
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/UnityPlayerIcon.png
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/UnityPlayerIcon.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/StagingArea/Enjoin.app/Contents/Resources/unity default resources
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/StagingArea/Enjoin.app/Contents/Resources/unity
+      default resources
+    projectPath: Temp/StagingArea/Enjoin.app/Contents/Resources/unity default resources
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-03782fc69943c43db8d524ad77aa5afa
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-03782fc69943c43db8d524ad77aa5afa
+    projectPath: Temp/UnityTempFile-03782fc69943c43db8d524ad77aa5afa
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-06a8a5183cc014340a66035a8c34c9d0
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-06a8a5183cc014340a66035a8c34c9d0
+    projectPath: Temp/UnityTempFile-06a8a5183cc014340a66035a8c34c9d0
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-0bbc7faf07db042948c4f6b797f29f77
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-0bbc7faf07db042948c4f6b797f29f77
+    projectPath: Temp/UnityTempFile-0bbc7faf07db042948c4f6b797f29f77
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-10357a29043ab493a9d4208c15c3ed5c
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-10357a29043ab493a9d4208c15c3ed5c
+    projectPath: Temp/UnityTempFile-10357a29043ab493a9d4208c15c3ed5c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-179eb2efa3e724d31a2935696205c4ec
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-179eb2efa3e724d31a2935696205c4ec
+    projectPath: Temp/UnityTempFile-179eb2efa3e724d31a2935696205c4ec
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-1910f0ba91eb14664998ece2f418f8ab
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-1910f0ba91eb14664998ece2f418f8ab
+    projectPath: Temp/UnityTempFile-1910f0ba91eb14664998ece2f418f8ab
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-279f9c6e9f3d147cbbf94da5da18da2d
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-279f9c6e9f3d147cbbf94da5da18da2d
+    projectPath: Temp/UnityTempFile-279f9c6e9f3d147cbbf94da5da18da2d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-2d63f8b34712c43e391f4eb07ea3b2e0
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-2d63f8b34712c43e391f4eb07ea3b2e0
+    projectPath: Temp/UnityTempFile-2d63f8b34712c43e391f4eb07ea3b2e0
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-30f6f8c02f1b64957894d2f1ff375fa4
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-30f6f8c02f1b64957894d2f1ff375fa4
+    projectPath: Temp/UnityTempFile-30f6f8c02f1b64957894d2f1ff375fa4
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-3e221b2fc92dc44a88f91fe2c15ceabc
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-3e221b2fc92dc44a88f91fe2c15ceabc
+    projectPath: Temp/UnityTempFile-3e221b2fc92dc44a88f91fe2c15ceabc
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-42fb5325c0d4c4e23be4625b4e6f2de1
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-42fb5325c0d4c4e23be4625b4e6f2de1
+    projectPath: Temp/UnityTempFile-42fb5325c0d4c4e23be4625b4e6f2de1
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-475d4bf4de38d40a7adbab42357de3be
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-475d4bf4de38d40a7adbab42357de3be
+    projectPath: Temp/UnityTempFile-475d4bf4de38d40a7adbab42357de3be
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-477be511fbbe143d2b86e475296e08be
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-477be511fbbe143d2b86e475296e08be
+    projectPath: Temp/UnityTempFile-477be511fbbe143d2b86e475296e08be
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-4cb05e4ccbf6949eebb626e31c2db3cb
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-4cb05e4ccbf6949eebb626e31c2db3cb
+    projectPath: Temp/UnityTempFile-4cb05e4ccbf6949eebb626e31c2db3cb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-4ce2bf1329bb44dd1a1ab3d00e872944
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-4ce2bf1329bb44dd1a1ab3d00e872944
+    projectPath: Temp/UnityTempFile-4ce2bf1329bb44dd1a1ab3d00e872944
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-5f3db40057db44e53aa04f7d8786c2f5
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-5f3db40057db44e53aa04f7d8786c2f5
+    projectPath: Temp/UnityTempFile-5f3db40057db44e53aa04f7d8786c2f5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-62d93bc2ca8e54c52ace75b44f9a5289
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-62d93bc2ca8e54c52ace75b44f9a5289
+    projectPath: Temp/UnityTempFile-62d93bc2ca8e54c52ace75b44f9a5289
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-68fd40dde698842ba994fc660a95c96a
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-68fd40dde698842ba994fc660a95c96a
+    projectPath: Temp/UnityTempFile-68fd40dde698842ba994fc660a95c96a
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-6a0dfe682ef0047eaa9c82cb5a4385e5
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-6a0dfe682ef0047eaa9c82cb5a4385e5
+    projectPath: Temp/UnityTempFile-6a0dfe682ef0047eaa9c82cb5a4385e5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-6c4f9aadd4ea14c3497b0218b2ec33b0
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-6c4f9aadd4ea14c3497b0218b2ec33b0
+    projectPath: Temp/UnityTempFile-6c4f9aadd4ea14c3497b0218b2ec33b0
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-72a97d3fa973f4621b1a0c750b3eb378
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-72a97d3fa973f4621b1a0c750b3eb378
+    projectPath: Temp/UnityTempFile-72a97d3fa973f4621b1a0c750b3eb378
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-75d7f6dea8cf047c6a36dd8302ee4fbd
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-75d7f6dea8cf047c6a36dd8302ee4fbd
+    projectPath: Temp/UnityTempFile-75d7f6dea8cf047c6a36dd8302ee4fbd
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-7a2d4a778403d4d81b9116d757d11828
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-7a2d4a778403d4d81b9116d757d11828
+    projectPath: Temp/UnityTempFile-7a2d4a778403d4d81b9116d757d11828
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-7a4105e0e7d174e3ab5dfeac16494db2
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-7a4105e0e7d174e3ab5dfeac16494db2
+    projectPath: Temp/UnityTempFile-7a4105e0e7d174e3ab5dfeac16494db2
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-7c1368af4f5e842829b0778bd7ee8d80
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-7c1368af4f5e842829b0778bd7ee8d80
+    projectPath: Temp/UnityTempFile-7c1368af4f5e842829b0778bd7ee8d80
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-7fb391e7bdef441feaf88217afb969a3
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-7fb391e7bdef441feaf88217afb969a3
+    projectPath: Temp/UnityTempFile-7fb391e7bdef441feaf88217afb969a3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-836c0eb0f31974d10b417ffad0388501
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-836c0eb0f31974d10b417ffad0388501
+    projectPath: Temp/UnityTempFile-836c0eb0f31974d10b417ffad0388501
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-86b89987aae354093967a8f45ce479f9
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-86b89987aae354093967a8f45ce479f9
+    projectPath: Temp/UnityTempFile-86b89987aae354093967a8f45ce479f9
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-892426719d7e3469e83a98d3f398b8bc
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-892426719d7e3469e83a98d3f398b8bc
+    projectPath: Temp/UnityTempFile-892426719d7e3469e83a98d3f398b8bc
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-8cacfe92b3c1541c2842baf3e4aa84f6
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-8cacfe92b3c1541c2842baf3e4aa84f6
+    projectPath: Temp/UnityTempFile-8cacfe92b3c1541c2842baf3e4aa84f6
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-927bec8307d0844e7aa7d7379dc9ab13
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-927bec8307d0844e7aa7d7379dc9ab13
+    projectPath: Temp/UnityTempFile-927bec8307d0844e7aa7d7379dc9ab13
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-98eb066485c284539a662016ee0c665f
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-98eb066485c284539a662016ee0c665f
+    projectPath: Temp/UnityTempFile-98eb066485c284539a662016ee0c665f
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-9c6d3b8d8cb7042b38b776ca6f722bb2
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-9c6d3b8d8cb7042b38b776ca6f722bb2
+    projectPath: Temp/UnityTempFile-9c6d3b8d8cb7042b38b776ca6f722bb2
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-a3ffc3abae4b743469f0153a529ccdd0
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-a3ffc3abae4b743469f0153a529ccdd0
+    projectPath: Temp/UnityTempFile-a3ffc3abae4b743469f0153a529ccdd0
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-a7b6bcc66df144b6fb18fd553e9a8166
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-a7b6bcc66df144b6fb18fd553e9a8166
+    projectPath: Temp/UnityTempFile-a7b6bcc66df144b6fb18fd553e9a8166
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-ab4f34bb14945497787ffa38b712eb6d
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-ab4f34bb14945497787ffa38b712eb6d
+    projectPath: Temp/UnityTempFile-ab4f34bb14945497787ffa38b712eb6d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-b8a3bbc5f07b4454f8a5f31a82d04549
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-b8a3bbc5f07b4454f8a5f31a82d04549
+    projectPath: Temp/UnityTempFile-b8a3bbc5f07b4454f8a5f31a82d04549
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-c25a0f1df8b68497c846f44027abe332
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-c25a0f1df8b68497c846f44027abe332
+    projectPath: Temp/UnityTempFile-c25a0f1df8b68497c846f44027abe332
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-ca2efebd310714a5ba046a1c6c371f26
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-ca2efebd310714a5ba046a1c6c371f26
+    projectPath: Temp/UnityTempFile-ca2efebd310714a5ba046a1c6c371f26
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-d0c912974e7504fc5abbfb82567efb7f
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-d0c912974e7504fc5abbfb82567efb7f
+    projectPath: Temp/UnityTempFile-d0c912974e7504fc5abbfb82567efb7f
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-d2b2316dd349b4700b0339f520af37d9
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-d2b2316dd349b4700b0339f520af37d9
+    projectPath: Temp/UnityTempFile-d2b2316dd349b4700b0339f520af37d9
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-d9fb99a90bcc445fbbd5e037a604e292
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-d9fb99a90bcc445fbbd5e037a604e292
+    projectPath: Temp/UnityTempFile-d9fb99a90bcc445fbbd5e037a604e292
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-daeb44ca95e0d45929cfbe6c043b2ce3
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-daeb44ca95e0d45929cfbe6c043b2ce3
+    projectPath: Temp/UnityTempFile-daeb44ca95e0d45929cfbe6c043b2ce3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-db86710506f914c76b00edca910fc93a
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-db86710506f914c76b00edca910fc93a
+    projectPath: Temp/UnityTempFile-db86710506f914c76b00edca910fc93a
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-e5859bc0e2329453696ee7796dad9e7f
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-e5859bc0e2329453696ee7796dad9e7f
+    projectPath: Temp/UnityTempFile-e5859bc0e2329453696ee7796dad9e7f
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-ecc63d61f89734d35b1a908e3fab6ade
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-ecc63d61f89734d35b1a908e3fab6ade
+    projectPath: Temp/UnityTempFile-ecc63d61f89734d35b1a908e3fab6ade
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-f9e31f4a7f2544aeab151b3a5a8a7208
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-f9e31f4a7f2544aeab151b3a5a8a7208
+    projectPath: Temp/UnityTempFile-f9e31f4a7f2544aeab151b3a5a8a7208
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-fa3fa3b12606d4ec0adfc083f6f9a276
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-fa3fa3b12606d4ec0adfc083f6f9a276
+    projectPath: Temp/UnityTempFile-fa3fa3b12606d4ec0adfc083f6f9a276
+    originalPath: 
+    status: 5
+    staged: 0
   - path: Temp/__Backupscenes/0.backup
     fullPath: /Users/tomoaki/Humanoid/app/Temp/__Backupscenes/0.backup
     projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
-    status: 3
+    status: 5
+    staged: 0
+  - path: Temp/tempFile.res
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/tempFile.res
+    projectPath: Temp/tempFile.res
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/tempFile.resG
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/tempFile.resG
+    projectPath: Temp/tempFile.resG
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/tempFile.resS
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/tempFile.resS
+    projectPath: Temp/tempFile.resS
+    originalPath: 
+    status: 5
     staged: 0
   - path: app.userprefs
     fullPath: /Users/tomoaki/Humanoid/app/app.userprefs
@@ -99,15 +1888,93 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp/UnityTempFile-30f6f8c02f1b64957894d2f1ff375fa4
-    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-30f6f8c02f1b64957894d2f1ff375fa4
-    projectPath: Temp/UnityTempFile-30f6f8c02f1b64957894d2f1ff375fa4
+  - path: Assets/Resources.meta
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/Resources.meta
+    projectPath: Assets/Resources.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp/UnityTempFile-4ce2bf1329bb44dd1a1ab3d00e872944
-    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-4ce2bf1329bb44dd1a1ab3d00e872944
-    projectPath: Temp/UnityTempFile-4ce2bf1329bb44dd1a1ab3d00e872944
+  - path: Assets/Resources/Prefabs.meta
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/Resources/Prefabs.meta
+    projectPath: Assets/Resources/Prefabs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Resources/Prefabs/kari_white1.prefab
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/Resources/Prefabs/kari_white1.prefab
+    projectPath: Assets/Resources/Prefabs/kari_white1.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Resources/Prefabs/kari_white1.prefab.meta
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/Resources/Prefabs/kari_white1.prefab.meta
+    projectPath: Assets/Resources/Prefabs/kari_white1.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Resources/Prefabs/tomo.prefab
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/Resources/Prefabs/tomo.prefab
+    projectPath: Assets/Resources/Prefabs/tomo.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Resources/Prefabs/tomo.prefab.meta
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/Resources/Prefabs/tomo.prefab.meta
+    projectPath: Assets/Resources/Prefabs/tomo.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Resources/Prefabs/yoko.prefab
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/Resources/Prefabs/yoko.prefab
+    projectPath: Assets/Resources/Prefabs/yoko.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Resources/Prefabs/yoko.prefab.meta
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/Resources/Prefabs/yoko.prefab.meta
+    projectPath: Assets/Resources/Prefabs/yoko.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/yoko/tomo.jpg
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/yoko/tomo.jpg
+    projectPath: Assets/yoko/tomo.jpg
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/yoko/tomo.jpg.meta
+    fullPath: /Users/tomoaki/Humanoid/app/Assets/yoko/tomo.jpg.meta
+    projectPath: Assets/yoko/tomo.jpg.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/1d/1d6474e75d1714154855706871d5ddab
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/1d/1d6474e75d1714154855706871d5ddab
+    projectPath: Library/metadata/1d/1d6474e75d1714154855706871d5ddab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/1d/1d6474e75d1714154855706871d5ddab.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/1d/1d6474e75d1714154855706871d5ddab.info
+    projectPath: Library/metadata/1d/1d6474e75d1714154855706871d5ddab.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/c1/c1781ce9464c0483f952ebe414741a72
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/c1/c1781ce9464c0483f952ebe414741a72
+    projectPath: Library/metadata/c1/c1781ce9464c0483f952ebe414741a72
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/c1/c1781ce9464c0483f952ebe414741a72.info
+    fullPath: /Users/tomoaki/Humanoid/app/Library/metadata/c1/c1781ce9464c0483f952ebe414741a72.info
+    projectPath: Library/metadata/c1/c1781ce9464c0483f952ebe414741a72.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-5020b39483c83440faea20e8d362d26d
+    fullPath: /Users/tomoaki/Humanoid/app/Temp/UnityTempFile-5020b39483c83440faea20e8d362d26d
+    projectPath: Temp/UnityTempFile-5020b39483c83440faea20e8d362d26d
     originalPath: 
     status: 1
     staged: 0

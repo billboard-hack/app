@@ -17,7 +17,8 @@ public class socket_test: MonoBehaviour {
 	WebSocket ws;
 
 	public GameObject yoko_prefab;
-	private bool loggingIn= true;
+	private GameObject figure;
+	private bool loggingIn;
 	private bool meThere = true;
 	private bool othersThere = false;
 
@@ -27,6 +28,7 @@ public class socket_test: MonoBehaviour {
 	private bool displayOthersButton = false;
 	private bool hideOthersButton = false;
 	private int buttonNo = 0;
+	private string personName;
 
 	public int flg;
 	public string pname;
@@ -34,12 +36,16 @@ public class socket_test: MonoBehaviour {
 	void Start()
 	{
 		flg = 0;
+		personName = UserAuth.getUserId ();
+		Debug.Log ("first User Name =" + personName);
 		//Login状態をかくにん
-		/*if (UserAuth.getUserId().IsNullOrEmpty() == false) {
+		if (UserAuth.getUserId().IsNullOrEmpty() == false) {
+			personName = UserAuth.getUserId ();
+			Debug.Log ("User Name =" + personName);
 			loggingIn = true;
 		} else {
 			loggingIn = false;
-		}*/
+		}
 
 		if (loggingIn) {
 			ws = new WebSocket ("ws://localhost:8080/ws");
@@ -92,9 +98,10 @@ public class socket_test: MonoBehaviour {
 		if (flg == 1) {
 			if (pname == "Yoko") {
 				UnityEngine.Quaternion appear_rotation = UnityEngine.Quaternion.identity;
-				Instantiate (yoko_prefab, new Vector3 (UnityEngine.Random.Range (-2.0f, 2.0f), 1.5f, -1.5f), appear_rotation);
-			} else {
-			}
+				Debug.Log ("prefab:" + personName);
+				figure = (GameObject)Resources.Load ("Prefabs/" + personName);
+				Instantiate (figure, new Vector3 (UnityEngine.Random.Range (-2.0f, 2.0f), 1.5f, -1.5f), appear_rotation);
+			} 
 			flg = 0;
 		}
 
@@ -153,7 +160,8 @@ public class socket_test: MonoBehaviour {
 	{
 		Vector3 appear_position = new Vector3 (-2.0f, 1.5f, -1.5f);
 		UnityEngine.Quaternion appear_rotation = UnityEngine.Quaternion.identity;
-		Instantiate(yoko_prefab, appear_position, appear_rotation);
+		figure = (GameObject)Resources.Load ("Prefabs/" + personName);
+		Instantiate(figure, appear_position, appear_rotation);
 	}
 	
 	void OnDestroy()
@@ -163,6 +171,7 @@ public class socket_test: MonoBehaviour {
 	}
 
 	void logout (){
+		UserAuth.setUserId (null);
 		SceneManager.LoadScene ("Login",LoadSceneMode.Single);
 	}
 
@@ -198,9 +207,8 @@ public class socket_test: MonoBehaviour {
 			GUI.skin.button.fontSize = 20;
 			displayOthersButton = GUI.Button( new Rect(Screen.width*1/2 - btnW * 1/2, Screen.height*3/4 + btnH*1/3, btnW, btnH), "Display others" );
 		}
+		
 	}
-
-
 
 }
 
