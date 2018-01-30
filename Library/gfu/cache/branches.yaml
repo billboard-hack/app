@@ -11,29 +11,32 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-30T03:22:37.4037290+09:00
-  lastVerifiedAtString: 2018-01-30T03:22:37.4059210+09:00
-  initializedAtString: 2018-01-30T01:05:28.3684680+09:00
+  lastUpdatedAtString: 2018-01-30T09:48:34.4237410+09:00
+  lastVerifiedAtString: 2018-01-30T09:48:34.4337653+09:00
+  initializedAtString: 2018-01-30T09:48:34.3896472+09:00
   gitConfigBranch:
     name: AllButtons
     remote:
       name: origin
-      url: https://Tomoaki-Tsuchiya:c10segitzer0@github.com/billboard-hack/app.git
+      url: https://github.com/billboard-hack/app
   gitConfigRemote:
     name: origin
-    url: https://Tomoaki-Tsuchiya:c10segitzer0@github.com/billboard-hack/app.git
+    url: https://github.com/billboard-hack/app
   localBranches:
   - name: AllButtons
     tracking: origin/AllButtons
     isActive: 1
+  - name: change-animator
+    tracking: origin/change-animator
+    isActive: 0
   - name: CreatingAStage
     tracking: origin/CreatingAStage
     isActive: 0
-  - name: LoginButtons
-    tracking: origin/LoginButtons
-    isActive: 0
   - name: master
-    tracking: origin/master
+    tracking: '[None]'
+    isActive: 0
+  - name: model_test
+    tracking: '[None]'
     isActive: 0
   - name: socket_com
     tracking: origin/socket_com
@@ -42,19 +45,19 @@ MonoBehaviour:
   - name: origin/AllButtons
     tracking: '[None]'
     isActive: 0
+  - name: origin/change-animator
+    tracking: '[None]'
+    isActive: 0
   - name: origin/CreatingAStage
     tracking: '[None]'
     isActive: 0
-  - name: origin/HEAD
+  - name: origin/dev
     tracking: '[None]'
     isActive: 0
   - name: origin/LoginButtons
     tracking: '[None]'
     isActive: 0
-  - name: origin/change-animator
-    tracking: '[None]'
-    isActive: 0
-  - name: origin/dev
+  - name: origin/master
     tracking: '[None]'
     isActive: 0
   - name: origin/socket_com
@@ -62,7 +65,7 @@ MonoBehaviour:
     isActive: 0
   remotes:
   - name: origin
-    url: https://Tomoaki-Tsuchiya:c10segitzer0@github.com/billboard-hack/app.git
+    url: https://github.com/billboard-hack/app
     login: 
     user: 
     host: 
@@ -71,76 +74,81 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - AllButtons
+    - change-animator
     - CreatingAStage
-    - LoginButtons
     - master
+    - model_test
     - socket_com
     values:
     - name: AllButtons
       remote:
         name: origin
-        url: https://Tomoaki-Tsuchiya:c10segitzer0@github.com/billboard-hack/app.git
+        url: https://github.com/billboard-hack/app
+    - name: change-animator
+      remote:
+        name: origin
+        url: https://github.com/billboard-hack/app
     - name: CreatingAStage
       remote:
         name: origin
-        url: https://Tomoaki-Tsuchiya:c10segitzer0@github.com/billboard-hack/app.git
-    - name: LoginButtons
-      remote:
-        name: origin
-        url: https://Tomoaki-Tsuchiya:c10segitzer0@github.com/billboard-hack/app.git
+        url: https://github.com/billboard-hack/app
     - name: master
       remote:
-        name: origin
-        url: https://Tomoaki-Tsuchiya:c10segitzer0@github.com/billboard-hack/app.git
+        name: 
+        url: 
+    - name: model_test
+      remote:
+        name: 
+        url: 
     - name: socket_com
       remote:
         name: origin
-        url: https://Tomoaki-Tsuchiya:c10segitzer0@github.com/billboard-hack/app.git
+        url: https://github.com/billboard-hack/app
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
       - AllButtons
-      - CreatingAStage
-      - HEAD
-      - LoginButtons
       - change-animator
+      - CreatingAStage
       - dev
+      - LoginButtons
+      - master
       - socket_com
     subKeyValues:
     - Values:
       - name: AllButtons
         remote:
           name: origin
-          url: https://Tomoaki-Tsuchiya:c10segitzer0@github.com/billboard-hack/app.git
-      - name: CreatingAStage
-        remote:
-          name: origin
-          url: https://Tomoaki-Tsuchiya:c10segitzer0@github.com/billboard-hack/app.git
-      - name: HEAD
-        remote:
-          name: origin
-          url: https://Tomoaki-Tsuchiya:c10segitzer0@github.com/billboard-hack/app.git
-      - name: LoginButtons
-        remote:
-          name: origin
-          url: https://Tomoaki-Tsuchiya:c10segitzer0@github.com/billboard-hack/app.git
+          url: https://github.com/billboard-hack/app
       - name: change-animator
         remote:
           name: origin
-          url: https://Tomoaki-Tsuchiya:c10segitzer0@github.com/billboard-hack/app.git
+          url: https://github.com/billboard-hack/app
+      - name: CreatingAStage
+        remote:
+          name: origin
+          url: https://github.com/billboard-hack/app
       - name: dev
         remote:
           name: origin
-          url: https://Tomoaki-Tsuchiya:c10segitzer0@github.com/billboard-hack/app.git
+          url: https://github.com/billboard-hack/app
+      - name: LoginButtons
+        remote:
+          name: origin
+          url: https://github.com/billboard-hack/app
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/billboard-hack/app
       - name: socket_com
         remote:
           name: origin
-          url: https://Tomoaki-Tsuchiya:c10segitzer0@github.com/billboard-hack/app.git
+          url: https://github.com/billboard-hack/app
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://Tomoaki-Tsuchiya:c10segitzer0@github.com/billboard-hack/app.git
+      url: https://github.com/billboard-hack/app

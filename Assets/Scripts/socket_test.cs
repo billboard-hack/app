@@ -109,7 +109,8 @@ public class socket_test: MonoBehaviour {
 				UnityEngine.Quaternion appear_rotation = UnityEngine.Quaternion.identity;
 				Debug.Log ("prefab:" + personName);
 				figure = (GameObject)Resources.Load ("Prefabs/" + personName);
-				var figureNo = Instantiate (figure, new Vector3 (UnityEngine.Random.Range (-2.0f, 2.0f), 1.5f, -1.5f), appear_rotation);
+				//var figureNo = Instantiate (figure, new Vector3 (UnityEngine.Random.Range (-2.0f, 2.0f), 1.5f, -1.5f), appear_rotation);
+				var figureNo = Instantiate (figure, new Vector3 (2.0f, 1.5f, -1.0f), Quaternion.Euler(0, 180, 0));
 				figureNo.name = figureNo.name.Replace("(Clone)", myNo.ToString());
 				myNo++;
 			} 
@@ -119,7 +120,7 @@ public class socket_test: MonoBehaviour {
 			UnityEngine.Quaternion appear_rotation = UnityEngine.Quaternion.identity;
 			Debug.Log ("prefab:" + otherName);
 			figure = (GameObject)Resources.Load ("Prefabs/" + otherName);
-			var figureNo = Instantiate (figure, new Vector3 (UnityEngine.Random.Range (-2.0f, 2.0f), 1.5f, -1.5f), appear_rotation);
+			var figureNo = Instantiate (figure, new Vector3 (UnityEngine.Random.Range (-1.6f, 2.0f), 1.5f, -1.5f), appear_rotation);
 		}
 		//hideMeButtonが押されたとき
 		if (hideMeButton) {

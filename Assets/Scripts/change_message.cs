@@ -12,7 +12,7 @@ public class change_message : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		myText = GetComponentInChildren<Text>();//UIのテキストの取得の仕方
-		myText.text = "Yoko";//テキストの変更
+		myText.text = "Shiba";//テキストの変更
 		mycanvas = GetComponent<Canvas>(); 
 		parents_body = GetComponentInParent<Rigidbody> ();
 	}
