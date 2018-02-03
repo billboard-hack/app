@@ -11,20 +11,23 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-30T16:28:18.9341507+09:00
-  lastVerifiedAtString: 2018-01-30T16:28:18.9461838+09:00
-  initializedAtString: 2018-01-30T16:21:04.7015344+09:00
+  lastUpdatedAtString: 2018-02-03T12:12:10.3337202+09:00
+  lastVerifiedAtString: 2018-02-03T12:12:10.3457528+09:00
+  initializedAtString: 2018-02-03T12:10:38.3001328+09:00
   gitConfigBranch:
-    name: AllButtons
+    name: app_demo
     remote:
-      name: origin
-      url: https://github.com/billboard-hack/app
+      name: 
+      url: 
   gitConfigRemote:
     name: origin
     url: https://github.com/billboard-hack/app
   localBranches:
   - name: AllButtons
     tracking: origin/AllButtons
+    isActive: 0
+  - name: app_demo
+    tracking: '[None]'
     isActive: 1
   - name: change-animator
     tracking: origin/change-animator
@@ -74,6 +77,7 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - AllButtons
+    - app_demo
     - change-animator
     - CreatingAStage
     - master
@@ -84,6 +88,10 @@ MonoBehaviour:
       remote:
         name: origin
         url: https://github.com/billboard-hack/app
+    - name: app_demo
+      remote:
+        name: 
+        url: 
     - name: change-animator
       remote:
         name: origin
